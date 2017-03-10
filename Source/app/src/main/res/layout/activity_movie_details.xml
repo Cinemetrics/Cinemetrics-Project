@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_movie_details"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.cinemetrics.cinematrics.MovieDetailsActivity"
+    android:background="@drawable/background">
+
+
+    <ScrollView
+        android:id="@+id/login_form"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/email_login_form"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <ImageView
+            android:id="@+id/img_poster"
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:adjustViewBounds="true"
+            android:layout_gravity="bottom"
+            android:scaleType="fitXY" />
+
+        <TextView
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lbl_title"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/img_poster"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_title"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/img_poster"
+            android:fontFamily="sans-serif"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="120dp"/>
+
+
+        <TextView
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lbl_plot"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/txt_title"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_overview"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/txt_title"
+            android:fontFamily="sans-serif"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="120dp"/>
+
+        <TextView
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lbl_releaseDate"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/txt_overview"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_releaseDate"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/txt_overview"
+            android:fontFamily="sans-serif"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="120dp"/>
+
+        <TextView
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lbl_rating"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/txt_releaseDate"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_rating"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/txt_releaseDate"
+            android:fontFamily="sans-serif"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="120dp"/>
+
+        <TextView
+            android:text=""
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lbl_Genre"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/txt_rating"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="10dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/txt_genre"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/txt_rating"
+            android:fontFamily="sans-serif"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="120dp"/>
+
+        <ImageView
+            android:background='@drawable/player'
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:id="@+id/img_youtubelink"
+            android:onClick="PlayTrailer"
+            android:layout_marginTop="10dp"
+            android:layout_below="@+id/lbl_youtube"
+            android:adjustViewBounds="true"
+            android:visibility="invisible"
+            android:layout_gravity="bottom"
+            android:scaleType="fitXY"
+            android:layout_marginStart="150dp"/>
+
+        <TextView
+            android:text="Youtube Trailer"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/lbl_youtube"
+            android:layout_marginTop="20dp"
+            android:layout_below="@+id/txt_genre"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@android:color/white"
+            android:layout_marginStart="120dp"/>
+
+        <com.google.android.youtube.player.YouTubePlayerView
+            android:layout_width="wrap_content"
+            android:layout_height="300dp"
+            android:id="@+id/youtube_view"
+            android:layout_alignParentTop="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentEnd="true"
+            android:layout_below="@id/lbl_youtube"
+            android:layout_marginTop="730dp"
+            />
+
+    </RelativeLayout>
+    </ScrollView>
+</RelativeLayout>
