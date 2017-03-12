@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Fri Mar 10 09:12:10 IST 2017
+2.base=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\background.PNG
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+6.file=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\share.PNG
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout-v11\\activity_main.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\back.PNG
+5.base=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+3.set=ANDROID_RESOURCE
+1.base=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\logo.PNG
+0.set=ANDROID_RESOURCE

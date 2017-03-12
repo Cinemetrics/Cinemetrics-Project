@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.PNG",
+        "source": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\src\\main\\res\\drawable\\logo.PNG"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.PNG",
+        "source": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\src\\main\\res\\drawable\\background.PNG"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_launcher.png",
+        "source": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\src\\main\\res\\drawable\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.PNG",
+        "source": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\src\\main\\res\\drawable\\share.PNG"
+    },
+    {
+        "merged": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.PNG",
+        "source": "C:\\Users\\User\\Desktop\\AnimatedPieChart-master1\\app\\src\\main\\res\\drawable\\back.PNG"
+    }
+]
