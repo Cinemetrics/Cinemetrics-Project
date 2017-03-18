@@ -1,0 +1,7 @@
+#Sat Mar 18 16:46:47 CST 2017
+base.0=S\:\\Cinemetrics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2004103c595e0db4ad70e6af975989c7d5824a4f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=S\:\\Cinemetrics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4ae9d0b981d0222915a51e05e7b19db806ce2c96\\classes.dex
+base.1=S\:\\Cinemetrics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_4ae9d0b981d0222915a51e05e7b19db806ce2c96
+file.0=S\:\\Cinemetrics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2004103c595e0db4ad70e6af975989c7d5824a4f\\classes.dex
