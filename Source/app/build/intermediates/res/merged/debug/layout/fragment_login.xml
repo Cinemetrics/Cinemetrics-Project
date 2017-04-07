@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    tools:context="edu.umkc.ase.cinemetrics.LoginFragment">
+
+
+    <LinearLayout
+        android:id="@+id/login_layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_centerInParent="true"
+        android:gravity="center_horizontal"
+        >
+
+    <TextView
+        android:id="@+id/status"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:gravity="center"/>
+
+
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progress_bar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:visibility="gone"/>
+
+    <TextView
+        android:text="Cinemetrics"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView"
+        android:textAppearance="@style/TextAppearance.AppCompat.SearchResult.Title"
+        android:fontFamily="cursive"
+        android:layout_above="@+id/login_layout"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="31dp"
+        android:textSize="30dp"
+        android:elevation="1dp"
+        />
+
+    <Button
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:id="@+id/login_getstarted"
+        android:background="@drawable/startbutton"
+        android:layout_below="@+id/login_layout"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="One stop for movies"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView2"
+        android:fontFamily="casual"
+        android:textSize="18sp"
+        android:layout_above="@+id/login_layout"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:text="Or, Signup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/textView3"
+        android:fontFamily="serif-monospace"
+        android:textSize="@dimen/dgts__title_text_size"
+        android:layout_marginTop="23dp"
+        android:layout_below="@+id/login_getstarted"
+        android:layout_centerHorizontal="true" />
+
+    <ImageView
+        android:id="@+id/logo_icon"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/logo3"
+        android:layout_marginBottom="24dp"
+        android:layout_alignBottom="@+id/textView"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/login_facebook"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/login_google"
+        android:background="@drawable/glogo" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="24dp"
+        android:id="@+id/login_facebook"
+        android:background="@drawable/fblogo"
+        android:layout_below="@+id/textView3"
+        android:layout_toStartOf="@+id/textView" />
+
+    <Button
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_alignTop="@+id/login_google"
+        android:layout_toEndOf="@+id/logo_icon"
+        android:id="@+id/login_twitter"
+        android:background="@drawable/tlogo" />
+</RelativeLayout>
