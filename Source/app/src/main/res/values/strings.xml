@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Cinematrics</string>
+    <string name="app_name">Cinemetrics</string>
+
+    <string name="fb_app_id">264029054053952</string>
+    <string-array name="options_arrays">
+        <item>Genre</item>
+        <item>Language</item>
+        <item>Director</item>
+        <item>Hero</item>
+    </string-array>
 </resources>
