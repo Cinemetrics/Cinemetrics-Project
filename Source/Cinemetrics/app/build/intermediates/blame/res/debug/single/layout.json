@@ -1,0 +1,370 @@
+[
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_oauth.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\layout\\tw__activity_oauth.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__action_bar.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__action_bar.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__tweet.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_another.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\activity_another.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_search.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\activity_search.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\to_be_watched_activity_search.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\to_be_watched_activity_search.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_alarm.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\activity_alarm.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_failure.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_failure.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__video_control.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__video_control.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main_login.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\activity_main_login.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__gallery_activity.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__gallery_activity.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__app_card.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\layout\\tw__app_card.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_login.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\fragment_login.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__state_button.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__state_button.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__media_badge.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__media_badge.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_share_email.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\layout\\tw__activity_share_email.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__player_activity.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__player_activity.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\to_be_watched_main_content.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\to_be_watched_main_content.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__tweet_compact.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\layout\\tw__tweet_compact.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_confirmation.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_confirmation.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_contacts.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_contacts.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\watched_activity_search.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\watched_activity_search.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\watched_main_content.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\watched_main_content.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_movie_details.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\activity_movie_details.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__country_row.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__country_row.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__activity_composer.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\layout\\tw__activity_composer.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_content.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\main_content.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_phone_number.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_phone_number.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\favourite_main_content.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\favourite_main_content.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\tw__composer_view.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\layout\\tw__composer_view.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\searchlist_layout.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\searchlist_layout.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\favourite_activity_search.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\favourite_activity_search.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pie_main.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\layout\\activity_pie_main.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dgts__activity_pin_code.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\layout\\dgts__activity_pin_code.xml"
+    }
+]
