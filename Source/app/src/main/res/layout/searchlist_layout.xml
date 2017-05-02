@@ -1,90 +1,94 @@
 <?xml version="1.0" encoding="utf-8"?>
-<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="wrap_content"
-    android:orientation="horizontal"
-    android:clickable="true">
+    android:layout_height="match_parent"
+    android:orientation="vertical">
 
-    <!-- Single ListItem -->
 
-    <!-- Product Name -->
-
-    <ImageView
-        android:src="@drawable/logo3"
-        android:id="@+id/movieimageView"
-        android:layout_width="100dp"
-        android:layout_height="100dp"
-        android:adjustViewBounds="true"
-        android:layout_gravity="left"
-        android:scaleType="fitXY"
-        android:layout_marginBottom="15dp"
-        android:onClick="FetchMovieDetails"/>
-
-    <TextView android:id="@+id/title_name"
-        android:layout_width="wrap_content"
+    <android.support.v7.widget.CardView
+        android:id="@+id/cardView"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:gravity="right"
-        android:layout_marginTop="15dp"
-        android:layout_marginLeft="20dp"
-        android:typeface="serif"
-        android:textAppearance="@style/TextAppearance.AppCompat.Menu"
-        android:fontFamily="cursive"
-        android:textColorHighlight="?attr/colorBackgroundFloating"
-        android:textColorLink="?attr/colorBackgroundFloating"
-        android:textColor="@color/cardview_light_background"
-        android:textSize="15dp"
-        android:text="Movie Title"
-        android:layout_toRightOf="@+id/movieimageView"/>
-    <TextView android:id="@+id/genre"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:gravity="right"
-        android:layout_marginTop="45dp"
-        android:layout_marginLeft="20dp"
-        android:typeface="serif"
-        android:textAppearance="@style/TextAppearance.AppCompat.Menu"
-        android:fontFamily="cursive"
-        android:textColorHighlight="?attr/colorBackgroundFloating"
-        android:textColorLink="?attr/colorBackgroundFloating"
-        android:textColor="@color/cardview_light_background"
-        android:textSize="15dp"
-        android:text="Movie fields"
-        android:layout_toRightOf="@+id/movieimageView"
-        />
+        android:layout_marginBottom="16dp"
+        app:cardCornerRadius="16dp"
+        app:cardElevation="5dp"
+        app:cardBackgroundColor="@android:color/transparent">
 
-    <ToggleButton
-        android:text="ToggleButton"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:gravity="right"
-        android:layout_marginTop="60dp"
-        android:layout_marginLeft="20dp"
-        android:layout_toRightOf="@+id/movieimageView"
-        android:id="@+id/toggleButton"
-        style="@style/toggleButton"
-        android:background="@drawable/ic_toggle_bg" />
-    <ToggleButton
-        android:text="ToggleButton"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:gravity="right"
-        android:layout_marginTop="60dp"
-        android:layout_marginLeft="20dp"
-        android:layout_toRightOf="@+id/toggleButton"
-        android:id="@+id/toggleButton2"
-        style="@style/toggleButton"
-        android:background="@drawable/ic_toggle_bg" />
-    <ToggleButton
-        android:text="ToggleButton"
-        android:layout_width="40dp"
-        android:layout_height="40dp"
-        android:gravity="right"
-        android:layout_marginTop="60dp"
-        android:layout_marginLeft="20dp"
-        android:layout_toRightOf="@+id/toggleButton2"
-        android:id="@+id/toggleButton3"
-        style="@style/toggleButton"
-        android:background="@drawable/ic_toggle_bg" />
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:padding="10dp"
+            android:layout_height="125dp">
 
-</RelativeLayout>
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="100dp"
+                android:layout_height="250dp"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+                android:layout_marginRight="10dp" />
+
+            <TextView
+                android:id="@+id/title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_toRightOf="@+id/imageView"
+                android:text="Title"
+                android:textSize="18dp"
+                android:paddingTop="5dp"
+                android:textColor="@android:color/white"/>
+
+            <TextView
+                android:id="@+id/description"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/title"
+                android:layout_toRightOf="@+id/imageView"
+                android:text="Description"
+                android:textSize="13dp"
+                android:paddingTop="5dp"
+                android:textColor="@android:color/white"/>
+
+            <ToggleButton
+                android:text="ToggleButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:gravity="right"
+                android:layout_marginTop="10dp"
+                android:layout_below="@+id/description"
+                android:layout_toRightOf="@+id/imageView"
+                android:id="@+id/watchtoggleButton"
+                style="@style/watchtoggleButton"
+                android:background="@drawable/ic_toggle_bg" />
+            <ToggleButton
+                android:text="ToggleButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:gravity="right"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@+id/description"
+                android:layout_toRightOf="@+id/watchtoggleButton"
+                android:id="@+id/towatchtoggleButton"
+                style="@style/towatchtoggleButton"
+                android:background="@drawable/ic_toggle_bg_towatch" />
+            <ToggleButton
+                android:text="ToggleButton"
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:gravity="right"
+                android:layout_marginTop="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_below="@+id/description"
+                android:layout_toRightOf="@+id/towatchtoggleButton"
+                android:id="@+id/favtoggleButton"
+                style="@style/favtoggleButton"
+                android:background="@drawable/ic_toggle_bg_fav" />
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+
+</LinearLayout>

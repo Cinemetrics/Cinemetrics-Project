@@ -5,37 +5,34 @@ package edu.umkc.ase.cinemetrics.model;
  */
 
 public class MoviesModel {
-
     private String movieName;
-    private String poster;
     private String releaseDate;
     private String posterId;
     private String genre;
+    private String language;
 
-    public MoviesModel(String movieName, String posterId, String genre) {
+
+    public MoviesModel(String movieName, String genre, String posterId, String releaseDate, String language) {
         this.movieName = movieName;
         this.genre = genre;
-        this.posterId = "https://image.tmdb.org/t/p/w500/"+posterId;
+        if(!posterId.contains("https"))
+            this.posterId = "https://image.tmdb.org/t/p/w500/"+posterId;
+        else
+            this.posterId = posterId;
+        this.releaseDate = releaseDate;
+        this.language = language;
     }
 
     public String getMovieName() {
         return movieName;
     }
 
-    public String getPoster() {
-        return poster;
-    }
-
-    public String getReleaseDate() {
-        return releaseDate;
-    }
-
     public void setMovieName(String movieName) {
         this.movieName = movieName;
     }
 
-    public void setPoster(String poster) {
-        this.poster = poster;
+    public String getReleaseDate() {
+        return releaseDate;
     }
 
     public void setReleaseDate(String releaseDate) {
@@ -56,5 +53,13 @@ public class MoviesModel {
 
     public void setGenre(String genre) {
         this.genre = genre;
+    }
+
+    public String getLanguage() {
+        return language;
+    }
+
+    public void setLanguage(String language) {
+        this.language = language;
     }
 }

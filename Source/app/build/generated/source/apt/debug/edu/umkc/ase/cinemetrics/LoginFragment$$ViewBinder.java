@@ -8,11 +8,11 @@ import butterknife.ButterKnife.ViewBinder;
 public class LoginFragment$$ViewBinder<T extends edu.umkc.ase.cinemetrics.LoginFragment> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131755224, "field 'progressBar'");
-    target.progressBar = finder.castView(view, 2131755224, "field 'progressBar'");
-    view = finder.findRequiredView(source, 2131755222, "field 'view'");
-    target.view = finder.castView(view, 2131755222, "field 'view'");
-    view = finder.findRequiredView(source, 2131755231, "method 'loginwithGoogle'");
+    view = finder.findRequiredView(source, 2131689741, "field 'progressBar'");
+    target.progressBar = finder.castView(view, 2131689741, "field 'progressBar'");
+    view = finder.findRequiredView(source, 2131689739, "field 'view'");
+    target.view = finder.castView(view, 2131689739, "field 'view'");
+    view = finder.findRequiredView(source, 2131689747, "method 'loginwithGoogle'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -21,7 +21,7 @@ public class LoginFragment$$ViewBinder<T extends edu.umkc.ase.cinemetrics.LoginF
           target.loginwithGoogle(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131755230, "method 'loginwithFacebook'");
+    view = finder.findRequiredView(source, 2131689746, "method 'loginwithFacebook'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -30,7 +30,7 @@ public class LoginFragment$$ViewBinder<T extends edu.umkc.ase.cinemetrics.LoginF
           target.loginwithFacebook(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131755232, "method 'loginwithTwitter'");
+    view = finder.findRequiredView(source, 2131689748, "method 'loginwithTwitter'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(
@@ -39,7 +39,7 @@ public class LoginFragment$$ViewBinder<T extends edu.umkc.ase.cinemetrics.LoginF
           target.loginwithTwitter(p0);
         }
       });
-    view = finder.findRequiredView(source, 2131755226, "method 'getStarted'");
+    view = finder.findRequiredView(source, 2131689742, "method 'getStarted'");
     view.setOnClickListener(
       new butterknife.internal.DebouncingOnClickListener() {
         @Override public void doClick(

@@ -1,7 +1,7 @@
 <resources>
     <string name="app_name">Cinemetrics</string>
 
-    <string name="fb_app_id">1723658174519153</string>
+    <string name="fb_app_id">531430987245317</string>
     <string-array name="options_arrays">
         <item>Genre</item>
         <item>Language</item>

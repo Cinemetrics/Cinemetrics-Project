@@ -1,58 +1,70 @@
 [
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_fade_in.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anticipate_overshoot.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\anim\\anticipate_overshoot.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_snackbar_out.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce_interpolator.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\anim\\bounce_interpolator.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_in.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_snackbar_in.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_fade_out.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_fab_in.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_popup_exit.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_popup_enter.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\anticipate_overshoot_interpolator.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\anim\\anticipate_overshoot_interpolator.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_in_bottom.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\anim\\design_fab_out.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\anim\\abc_slide_out_bottom.xml"
     }
 ]

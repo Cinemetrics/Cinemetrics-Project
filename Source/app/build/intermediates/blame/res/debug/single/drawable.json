@@ -1,406 +1,646 @@
 [
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_search_api_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_search_api_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\watcheddisabled.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\watcheddisabled.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_pressed_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_pressed_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_ratingbar_full_material.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\logo2.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_pressed.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_pressed.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__install_button_border.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\drawable\\tw__install_button_border.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layers_fb_button_bg.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\layers_fb_button_bg.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_bg_gradient_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_expanded_controller_bg_gradient_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_menu_overflow_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_tab_indicator_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo3.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\logo3.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_check_material.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_disabled.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_disabled.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\logout.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_text_color_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_text_color_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__gif_badge.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__gif_badge.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_track_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favdisabled.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\favdisabled.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_replay_btn.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_replay_btn.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__like_action.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__like_action.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_borderless_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_mono_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_mono_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_default.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_pause_btn.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_pause_btn.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__app_info_layout_border.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\drawable\\tw__app_info_layout_border.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\piechart.jpg",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\piechart.jpg"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_borderless_material.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_textfield_search_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_media_badge.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__bg_media_badge.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\background.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo5.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\logo5.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_disabled.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_disabled.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\progress_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\background.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\background.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\towatchdisabled.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\towatchdisabled.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_fab_background.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle_bg.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_tile_bg.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_tile_bg.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_progress_drawable.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_mini_controller_progress_drawable.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_play_btn.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_play_btn.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_default_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_seekbar.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_seekbar.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_switch_thumb_material.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle_reminder.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle_reminder.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_pressed.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_pressed.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_closed_caption.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_closed_caption.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\youtubeicon.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\youtubeicon.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind30.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_rewind30.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_check_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_next.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_skip_next.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_pause_btn.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_pause_btn.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle_fav.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle_fav.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_pause.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ratingbar_small_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop_large.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_stop_large.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\design_snackbar_background.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_pause_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_pause_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_dialog_material_background.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_pressed_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_pressed_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_send_background.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo2.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\logo2.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fb.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\icon_fb.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle_bg_towatch.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle_bg_towatch.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_radio_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_background.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_send_background.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_switch_thumb_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_disconnect.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_disconnect.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_cab_background_top_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_round.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_go_search_api_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_go_search_api_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__player_overlay.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__player_overlay.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\favenabled.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\favenabled.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\startbutton.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\startbutton.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play_large.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_play_large.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\glogo.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\glogo.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\glogo.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\glogo.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle_towatch.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle_towatch.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_bg_low.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_bg_low.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_text_color_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_text_color_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fblogo.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\fblogo.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minimalist_symbols.jpg",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\minimalist_symbols.jpg"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_previous.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_expanded_controller_skip_previous.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__transparent.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__transparent.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_seekbar.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_seekbar.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle_bg.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle_bg.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_fb_bg.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\button_fb_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player.jpeg",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\player.jpeg"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_vector_test.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_tab_indicator_material.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tlogo.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\tlogo.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_stop_live_stream.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_stop_live_stream.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_settings_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_settings_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_default_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_fb_bg.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\button_fb_bg.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_default.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_default.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_menu.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\menu.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\menu.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logout.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\logout.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\progress_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__seekbar_thumb.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__seekbar_thumb.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_mute.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_expanded_controller_mute.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_like_background.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_connecting.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast\\8.4.0\\res\\drawable\\cast_ic_notification_connecting.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.PNG",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\back.PNG"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_fab_background.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.PNG",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\share.PNG"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_item_background_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__btn_composer_tweet.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\drawable\\tw__btn_composer_tweet.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_pressed.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\dgts__digits_btn_pressed.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\navigation_empty_icon.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.2.0\\res\\drawable\\navigation_empty_icon.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle_bg_reminder.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle_bg_reminder.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification_icon_background.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\notification_icon_background.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_track_material.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_dark.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\progress_dark.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_small_icon.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_small_icon.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__install_button_border.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\drawable\\tw__install_button_border.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo5.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\logo5.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__btn_composer_tweet.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\drawable\\tw__btn_composer_tweet.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_dark.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_text_dark.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_skip_next.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_expanded_controller_skip_next.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_ab_back_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mic.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\mic.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_default.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\dgts__digits_btn_default.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward10.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_forward10.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__player_overlay.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__player_overlay.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\player.jpeg",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\player.jpeg"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_media_route_connecting_mono_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_media_route_connecting_mono_light.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo6.png",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\drawable\\logo6.png"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_mute.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_mute.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\share.PNG",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\share.PNG"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.PNG",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\back.PNG"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\dgts__digits_btn.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\watchedenabled.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\watchedenabled.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_text_cursor_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_clear_material.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_ic_clear_material.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_closed_caption.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_expanded_controller_closed_caption.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_background.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\notification.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\notification.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_play.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_play.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__bg_media_badge.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__bg_media_badge.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_prev.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_skip_prev.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__share_action.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__share_action.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_play.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_expanded_controller_play.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress_light.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\progress_light.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\towatchenabled.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\towatchenabled.png"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_dark.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.0.2\\res\\drawable\\common_plus_signin_btn_icon_dark.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_pressed.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\dgts__digits_btn_pressed.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__seekbar_thumb.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__seekbar_thumb.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__gif_badge.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__gif_badge.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_skip_prev.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_mini_controller_gradient_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_text_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_pause.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_forward30.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_forward30.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layers_fb_button_bg.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\layers_fb_button_bg.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\home.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\home.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_menu.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_play_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_play_light.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_play.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mr_ic_cast_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable\\mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_rewind30.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_replay_btn.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_replay_btn.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fb.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\icon_fb.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_toggle_bg_fav.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\ic_toggle_bg_fav.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__share_action.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__share_action.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_dark.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\fblogo.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\fblogo.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.1.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_off.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\alarm_off.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn_default.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\dgts__digits_btn_default.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_google_signin_btn_icon_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__video_play_btn.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable\\tw__video_play_btn.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_skip_next.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_rewind10.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__transparent.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__transparent.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__app_info_layout_border.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\drawable\\tw__app_info_layout_border.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_pause.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tlogo.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\tlogo.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tw__login_btn.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable\\tw__login_btn.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward30.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_stop.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_notification_forward.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\calender.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\calender.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\dgts__digits_btn.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable\\dgts__digits_btn.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\startbutton.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\startbutton.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_expanded_controller_rewind30.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo3.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\logo3.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo6.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\logo6.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\time.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\time.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\minimalist_symbols.jpg",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\minimalist_symbols.jpg"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_plus_signin_btn_icon_light.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\drawable\\common_plus_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cast_ic_mini_controller_pause_large.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-cast-framework\\9.4.0\\res\\drawable\\cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\alarm_on.png",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\drawable\\alarm_on.png"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
     }
 ]

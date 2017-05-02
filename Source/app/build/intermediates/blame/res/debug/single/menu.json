@@ -1,14 +1,18 @@
 [
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_actions.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\menu\\drawer_actions.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\menu\\menu_main.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\menu\\menu_main.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_menu.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\menu\\action_menu.xml"
     },
     {
-        "merged": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_another.xml",
-        "source": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\src\\main\\res\\menu\\menu_another.xml"
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_actions.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\menu\\drawer_actions.xml"
+    },
+    {
+        "merged": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_another.xml",
+        "source": "C:\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\menu\\menu_another.xml"
     }
 ]

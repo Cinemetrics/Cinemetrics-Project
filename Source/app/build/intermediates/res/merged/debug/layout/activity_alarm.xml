@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    xmlns:fab="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.CardView
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        card_view:cardCornerRadius="16dp"
+        card_view:cardBackgroundColor="@color/cardview_light_background"
+        android:elevation="5dp"
+        card_view:cardUseCompatPadding="true"
+        android:id="@+id/cardView2"
+        android:layout_below="@+id/cardView1">
+
+        <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+            xmlns:app="http://schemas.android.com/apk/res-auto"
+            xmlns:tools="http://schemas.android.com/tools"
+            android:id="@+id/activity_alarm"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingBottom="@dimen/activity_vertical_margin"
+            android:paddingLeft="@dimen/activity_horizontal_margin"
+            android:paddingRight="@dimen/activity_horizontal_margin"
+            android:paddingTop="@dimen/activity_vertical_margin"
+            tools:context="edu.umkc.ase.cinemetrics.AlarmActivity">
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/in_date"
+                android:layout_marginTop="50dp"
+                android:layout_alignParentTop="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="@android:color/black"
+                android:textColorLink="@color/cardview_dark_background" />
+
+            <EditText
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/in_time"
+                android:layout_below="@+id/in_date"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:textColor="@android:color/black"
+                android:textColorLink="@color/cardview_dark_background" />
+
+            <Button
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/time"
+                android:id="@+id/btn_time"
+                android:layout_below="@+id/btn_date"
+                android:layout_alignLeft="@+id/btn_date"
+                android:layout_alignStart="@+id/btn_date" />
+
+
+            <Button
+                android:layout_width="30dp"
+                android:layout_height="30dp"
+                android:background="@drawable/calender"
+                android:id="@+id/btn_date"
+                android:layout_above="@+id/in_time"
+                android:layout_toRightOf="@+id/in_date"
+                android:layout_toEndOf="@+id/in_date"
+                android:layout_marginLeft="13dp"
+                android:layout_marginStart="13dp" />
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:inputType="textPersonName"
+                android:text="Alarm Name"
+                android:id="@+id/txt_alarmName"
+                android:layout_above="@+id/btn_date"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentStart="true"
+                android:elevation="1dp"
+                android:textSize="16dp"
+                android:textColor="@android:color/black"
+                android:textColorLink="@color/cardview_dark_background" />
+
+            <ToggleButton
+                android:id="@+id/toggleButton"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:checked="false"
+                android:onClick="setAlarm"
+                android:background="@color/tw__transparent"
+                android:textOff="Remind Me"
+                android:textOn="Remove Remainder"
+                android:layout_below="@+id/in_time"
+                android:layout_alignRight="@+id/in_time"
+                android:layout_alignEnd="@+id/in_time"
+                android:layout_marginRight="35dp"
+                android:layout_marginEnd="35dp" />
+        </RelativeLayout>
+
+    </android.support.v7.widget.CardView>
+
+</FrameLayout>
+
+

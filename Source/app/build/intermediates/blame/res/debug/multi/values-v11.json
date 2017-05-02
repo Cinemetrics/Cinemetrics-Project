@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+        "outputFile": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v11\\values-v11.xml",
         "map": [
             {
                 "to": {
@@ -12,14 +12,14 @@
                     "endOffset": 469
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 2,
+                        "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 55,
-                        "endLine": 7,
+                        "startOffset": 239,
+                        "endLine": 9,
                         "endColumn": 12,
-                        "endOffset": 469
+                        "endOffset": 653
                     }
                 }
             },
@@ -33,14 +33,14 @@
                     "endOffset": 894
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 8,
+                        "startLine": 10,
                         "startColumn": 4,
-                        "startOffset": 474,
-                        "endLine": 13,
+                        "startOffset": 658,
+                        "endLine": 15,
                         "endColumn": 12,
-                        "endOffset": 894
+                        "endOffset": 1078
                     }
                 }
             },
@@ -54,14 +54,14 @@
                     "endOffset": 1322
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 14,
+                        "startLine": 16,
                         "startColumn": 4,
-                        "startOffset": 899,
-                        "endLine": 19,
+                        "startOffset": 1083,
+                        "endLine": 21,
                         "endColumn": 12,
-                        "endOffset": 1322
+                        "endOffset": 1506
                     }
                 }
             },
@@ -75,14 +75,14 @@
                     "endOffset": 1748
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 20,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 1327,
-                        "endLine": 25,
+                        "startOffset": 1511,
+                        "endLine": 27,
                         "endColumn": 12,
-                        "endOffset": 1748
+                        "endOffset": 1932
                     }
                 }
             },
@@ -96,14 +96,14 @@
                     "endOffset": 2175
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 26,
+                        "startLine": 28,
                         "startColumn": 4,
-                        "startOffset": 1753,
-                        "endLine": 31,
+                        "startOffset": 1937,
+                        "endLine": 33,
                         "endColumn": 12,
-                        "endOffset": 2175
+                        "endOffset": 2359
                     }
                 }
             },
@@ -117,14 +117,14 @@
                     "endOffset": 2600
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 32,
+                        "startLine": 34,
                         "startColumn": 4,
-                        "startOffset": 2180,
-                        "endLine": 37,
+                        "startOffset": 2364,
+                        "endLine": 39,
                         "endColumn": 12,
-                        "endOffset": 2600
+                        "endOffset": 2784
                     }
                 }
             },
@@ -137,13 +137,13 @@
                     "endOffset": 2689
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 38,
+                        "startLine": 42,
                         "startColumn": 4,
-                        "startOffset": 2605,
+                        "startOffset": 2968,
                         "endColumn": 88,
-                        "endOffset": 2689
+                        "endOffset": 3052
                     }
                 }
             },
@@ -152,80 +152,80 @@
                     "startLine": 39,
                     "startColumn": 4,
                     "startOffset": 2694,
-                    "endLine": 42,
-                    "endColumn": 12,
-                    "endOffset": 2935
+                    "endColumn": 100,
+                    "endOffset": 2790
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 39,
-                        "startColumn": 4,
-                        "startOffset": 2694,
-                        "endLine": 42,
-                        "endColumn": 12,
-                        "endOffset": 2935
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 2940,
-                    "endLine": 46,
-                    "endColumn": 12,
-                    "endOffset": 3184
-                },
-                "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
-                        "startOffset": 2940,
-                        "endLine": 46,
-                        "endColumn": 12,
-                        "endOffset": 3184
+                        "startOffset": 3057,
+                        "endColumn": 100,
+                        "endOffset": 3153
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3189,
-                    "endColumn": 100,
-                    "endOffset": 3285
+                    "startOffset": 2795,
+                    "endLine": 44,
+                    "endColumn": 12,
+                    "endOffset": 3198
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 47,
+                        "startLine": 44,
                         "startColumn": 4,
-                        "startOffset": 3189,
-                        "endColumn": 100,
-                        "endOffset": 3285
+                        "startOffset": 3158,
+                        "endLine": 48,
+                        "endColumn": 12,
+                        "endOffset": 3561
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3290,
+                    "startOffset": 3203,
+                    "endLine": 49,
+                    "endColumn": 12,
+                    "endOffset": 3618
+                },
+                "from": {
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 3566,
+                        "endLine": 53,
+                        "endColumn": 12,
+                        "endOffset": 3981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3623,
                     "endLine": 51,
                     "endColumn": 12,
-                    "endOffset": 3537
+                    "endOffset": 3725
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 48,
+                        "startLine": 56,
                         "startColumn": 4,
-                        "startOffset": 3290,
-                        "endLine": 51,
+                        "startOffset": 4165,
+                        "endLine": 57,
                         "endColumn": 12,
-                        "endOffset": 3537
+                        "endOffset": 4267
                     }
                 }
             },
@@ -233,179 +233,34 @@
                 "to": {
                     "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 3542,
-                    "endLine": 55,
+                    "startOffset": 3730,
+                    "endLine": 53,
                     "endColumn": 12,
-                    "endOffset": 3792
+                    "endOffset": 3854
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 52,
+                        "startLine": 58,
                         "startColumn": 4,
-                        "startOffset": 3542,
-                        "endLine": 55,
+                        "startOffset": 4272,
+                        "endLine": 59,
                         "endColumn": 12,
-                        "endOffset": 3792
+                        "endOffset": 4396
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 3797,
-                    "endColumn": 102,
-                    "endOffset": 3895
-                },
-                "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 56,
-                        "startColumn": 4,
-                        "startOffset": 3797,
-                        "endColumn": 102,
-                        "endOffset": 3895
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 57,
-                    "startColumn": 4,
-                    "startOffset": 3900,
-                    "endLine": 60,
+                    "startOffset": 3859,
+                    "endLine": 61,
                     "endColumn": 12,
-                    "endOffset": 4148
+                    "endOffset": 4364
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 57,
-                        "startColumn": 4,
-                        "startOffset": 3900,
-                        "endLine": 60,
-                        "endColumn": 12,
-                        "endOffset": 4148
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 61,
-                    "startColumn": 4,
-                    "startOffset": 4153,
-                    "endLine": 65,
-                    "endColumn": 12,
-                    "endOffset": 4556
-                },
-                "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 61,
-                        "startColumn": 4,
-                        "startOffset": 4153,
-                        "endLine": 65,
-                        "endColumn": 12,
-                        "endOffset": 4556
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 66,
-                    "startColumn": 4,
-                    "startOffset": 4561,
-                    "endLine": 70,
-                    "endColumn": 12,
-                    "endOffset": 4976
-                },
-                "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 66,
-                        "startColumn": 4,
-                        "startOffset": 4561,
-                        "endLine": 70,
-                        "endColumn": 12,
-                        "endOffset": 4976
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 71,
-                    "startColumn": 4,
-                    "startOffset": 4981,
-                    "endLine": 75,
-                    "endColumn": 12,
-                    "endOffset": 5398
-                },
-                "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 71,
-                        "startColumn": 4,
-                        "startOffset": 4981,
-                        "endLine": 75,
-                        "endColumn": 12,
-                        "endOffset": 5398
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 76,
-                    "startColumn": 4,
-                    "startOffset": 5403,
-                    "endLine": 77,
-                    "endColumn": 12,
-                    "endOffset": 5505
-                },
-                "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 76,
-                        "startColumn": 4,
-                        "startOffset": 5403,
-                        "endLine": 77,
-                        "endColumn": 12,
-                        "endOffset": 5505
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 78,
-                    "startColumn": 4,
-                    "startOffset": 5510,
-                    "endLine": 79,
-                    "endColumn": 12,
-                    "endOffset": 5634
-                },
-                "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
-                    "position": {
-                        "startLine": 78,
-                        "startColumn": 4,
-                        "startOffset": 5510,
-                        "endLine": 79,
-                        "endColumn": 12,
-                        "endOffset": 5634
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 80,
-                    "startColumn": 4,
-                    "startOffset": 5639,
-                    "endLine": 87,
-                    "endColumn": 12,
-                    "endOffset": 6144
-                },
-                "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -418,15 +273,15 @@
             },
             {
                 "to": {
-                    "startLine": 88,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 6149,
-                    "endLine": 95,
+                    "startOffset": 4369,
+                    "endLine": 69,
                     "endColumn": 12,
-                    "endOffset": 6660
+                    "endOffset": 4880
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-composer\\1.0.3\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -439,15 +294,15 @@
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 6665,
-                    "endLine": 98,
+                    "startOffset": 4885,
+                    "endLine": 72,
                     "endColumn": 12,
-                    "endOffset": 6822
+                    "endOffset": 5042
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -460,15 +315,15 @@
             },
             {
                 "to": {
-                    "startLine": 99,
+                    "startLine": 73,
                     "startColumn": 4,
-                    "startOffset": 6827,
-                    "endLine": 103,
+                    "startOffset": 5047,
+                    "endLine": 77,
                     "endColumn": 12,
-                    "endOffset": 7087
+                    "endOffset": 5307
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-v11\\values-v11.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -481,100 +336,119 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 7092,
+                    "startOffset": 5312,
                     "endColumn": 70,
-                    "endOffset": 7158
+                    "endOffset": 5378
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 80,
+                        "startLine": 62,
                         "startColumn": 4,
-                        "startOffset": 5639,
+                        "startOffset": 4580,
                         "endColumn": 70,
-                        "endOffset": 5705
+                        "endOffset": 4646
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 105,
+                    "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 7163,
+                    "startOffset": 5383,
                     "endColumn": 82,
-                    "endOffset": 7241
+                    "endOffset": 5461
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 81,
+                        "startLine": 63,
                         "startColumn": 4,
-                        "startOffset": 5710,
+                        "startOffset": 4651,
                         "endColumn": 82,
-                        "endOffset": 5788
+                        "endOffset": 4729
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 106,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 7246,
-                    "endLine": 158,
+                    "startOffset": 5466,
+                    "endLine": 130,
                     "endColumn": 12,
-                    "endOffset": 11180
+                    "endOffset": 9169
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 82,
+                        "startLine": 64,
                         "startColumn": 4,
-                        "startOffset": 5793,
-                        "endLine": 134,
+                        "startOffset": 4734,
+                        "endLine": 114,
                         "endColumn": 12,
-                        "endOffset": 9727
+                        "endOffset": 8437
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 159,
+                    "startLine": 131,
                     "startColumn": 4,
-                    "startOffset": 11185,
-                    "endLine": 212,
+                    "startOffset": 9174,
+                    "endLine": 182,
                     "endColumn": 12,
-                    "endOffset": 15262
+                    "endOffset": 13017
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 135,
+                        "startLine": 115,
                         "startColumn": 4,
-                        "startOffset": 9732,
-                        "endLine": 188,
+                        "startOffset": 8442,
+                        "endLine": 166,
                         "endColumn": 12,
-                        "endOffset": 13809
+                        "endOffset": 12285
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 213,
+                    "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 15267,
+                    "startOffset": 13022,
                     "endColumn": 90,
-                    "endOffset": 15353
+                    "endOffset": 13108
                 },
                 "from": {
-                    "file": "C:\\Users\\Esha Mayuri\\Desktop\\Cinemetrics-20170319T200442Z-001\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.2.0\\res\\values-v11\\values-v11.xml",
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-v11\\values-v11.xml",
                     "position": {
-                        "startLine": 189,
+                        "startLine": 169,
                         "startColumn": 4,
-                        "startOffset": 13814,
+                        "startOffset": 12469,
                         "endColumn": 90,
-                        "endOffset": 13900
+                        "endOffset": 12555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 184,
+                    "startColumn": 4,
+                    "startOffset": 13113,
+                    "endColumn": 117,
+                    "endOffset": 13226
+                },
+                "from": {
+                    "file": "C:\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-appinvite\\8.4.0\\res\\values-v11\\appinvite_styles.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 101,
+                        "endColumn": 117,
+                        "endOffset": 214
                     }
                 }
             }
