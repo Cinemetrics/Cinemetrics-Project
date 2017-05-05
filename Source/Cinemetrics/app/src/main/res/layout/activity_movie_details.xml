@@ -19,6 +19,17 @@
         android:scaleType="fitXY"/>
 
     <ImageView
+        android:id="@+id/back"
+        android:src="@android:drawable/ic_menu_revert"
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:scaleType="fitXY"
+        android:layout_gravity="top|left"
+        android:elevation="@dimen/cardview_default_elevation"
+        android:layout_marginTop="20dp"
+        android:onClick="backToSearch"/>
+
+    <ImageView
         android:id="@+id/share"
         android:src="@android:drawable/ic_menu_share"
         android:layout_width="40dp"
@@ -37,7 +48,7 @@
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:clipToPadding="false"
-        android:paddingTop="170dp"
+        android:paddingTop="250dp"
         android:layout_below="@id/toolbar">
         <FrameLayout
             android:layout_width="match_parent"
@@ -59,7 +70,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         card_view:cardCornerRadius="16dp"
-                        card_view:cardBackgroundColor="#909A53"
+                        card_view:cardBackgroundColor="@color/cardview_light_background"
                         card_view:cardUseCompatPadding="true"
                         android:id="@+id/cardView1">
 
@@ -95,7 +106,7 @@
                                     android:id="@+id/txt_title"
                                     android:textStyle="bold"
                                     android:textSize="18dp"
-                                    android:textColor="@color/cardview_light_background"
+                                    android:textColor="@color/tw__composer_black"
                                     android:layout_toRightOf="@+id/internal_img_poster"
                                     android:layout_marginBottom="10dp"/>
 
@@ -134,27 +145,19 @@
                                     android:layout_below="@+id/txt_title"
                                     />
 
-                                <ImageView
-                                    android:layout_width="25dp"
-                                    android:layout_height="25dp"
-                                    android:src="@android:drawable/ic_popup_reminder"
+                                <ToggleButton
+                                    android:text="ToggleButton"
+                                    android:layout_width="30dp"
+                                    android:layout_height="30dp"
                                     android:layout_marginTop="30dp"
                                     android:layout_marginBottom="10dp"
-                                    android:id="@+id/remainder"
-                                    android:gravity="right"
+                                    android:id="@+id/remainderbtn"
+                                    style="@style/remaindertoggleButton"
+                                    android:background="@drawable/ic_toggle_bg_reminder"
                                     android:layout_below="@+id/favtoggleButton"
                                     android:layout_toRightOf="@+id/internal_img_poster"
-                                    android:layout_marginLeft="100dp"/>
-
-                                <Switch
-                                    android:id="@+id/switch_btn"
-                                    android:layout_height="wrap_content"
-                                    android:layout_width="wrap_content"
-                                    android:layout_marginTop="30dp"
-                                    android:layout_marginBottom="10dp"
                                     android:gravity="right"
-                                    android:layout_toRightOf="@+id/remainder"
-                                    android:layout_below="@+id/favtoggleButton"/>
+                                    />
 
                             </RelativeLayout>
                         </FrameLayout>
@@ -165,7 +168,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         card_view:cardCornerRadius="16dp"
-                        card_view:cardBackgroundColor="#909A53"
+                        card_view:cardBackgroundColor="@color/cardview_light_background"
                         card_view:cardUseCompatPadding="true"
                         android:id="@+id/cardView2"
                         android:layout_below="@+id/cardView1">
@@ -186,9 +189,9 @@
                                     android:layout_height="wrap_content"
                                     android:id="@+id/lbl_plot"
                                     android:layout_marginTop="20dp"
-                                    android:textSize="16dp"
+                                    android:textSize="14dp"
                                     android:textStyle="bold"
-                                    android:textColor="@color/cardview_light_background"
+                                    android:textColor="@color/tw__composer_black"
                                     android:layout_marginStart="10dp"
                                     android:layout_marginLeft="10dp"
                                     />
@@ -198,7 +201,7 @@
                                     android:layout_height="wrap_content"
                                     android:id="@+id/txt_overview"
                                     android:textSize="14dp"
-                                    android:textColor="@color/cardview_light_background"
+                                    android:textColor="@color/tw__composer_black"
                                     android:layout_below="@+id/lbl_plot"
                                     android:layout_marginStart="130dp"
                                     android:layout_marginLeft="10dp"/>
@@ -209,10 +212,10 @@
                                     android:layout_height="wrap_content"
                                     android:id="@+id/lbl_releaseDate"
                                     android:layout_marginTop="20dp"
-                                    android:textSize="16dp"
+                                    android:textSize="14dp"
                                     android:layout_below="@+id/txt_overview"
                                     android:textStyle="bold"
-                                    android:textColor="@color/cardview_light_background"
+                                    android:textColor="@color/tw__composer_black"
                                     android:layout_marginStart="10dp"
                                     android:layout_marginLeft="10dp"/>
 
@@ -220,10 +223,10 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:id="@+id/txt_releaseDate"
-                                    android:layout_marginTop="24dp"
+                                    android:layout_marginTop="20dp"
                                     android:textSize="14dp"
                                     android:layout_below="@+id/txt_overview"
-                                    android:textColor="@color/cardview_light_background"
+                                    android:textColor="@color/tw__composer_black"
                                     android:layout_marginStart="130dp"
                                     android:layout_marginLeft="10dp"
                                     android:layout_toRightOf="@+id/lbl_releaseDate"/>
@@ -234,10 +237,10 @@
                                     android:layout_height="wrap_content"
                                     android:id="@+id/lbl_rating"
                                     android:layout_marginTop="20dp"
-                                    android:textSize="18dp"
+                                    android:textSize="14dp"
                                     android:layout_below="@+id/txt_releaseDate"
                                     android:textStyle="bold"
-                                    android:textColor="@color/cardview_light_background"
+                                    android:textColor="@color/tw__composer_black"
                                     android:layout_marginStart="10dp"
                                     android:layout_marginLeft="10dp"/>
 
@@ -245,10 +248,10 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:id="@+id/txt_rating"
-                                    android:layout_marginTop="24dp"
+                                    android:layout_marginTop="20dp"
                                     android:textSize="14dp"
                                     android:layout_below="@+id/txt_releaseDate"
-                                    android:textColor="@color/cardview_light_background"
+                                    android:textColor="@color/tw__composer_black"
                                     android:layout_marginLeft="10dp"
                                     android:layout_toRightOf="@+id/lbl_rating"/>
 
@@ -273,10 +276,10 @@
                                     android:layout_height="wrap_content"
                                     android:id="@+id/lbl_Genre"
                                     android:layout_marginTop="20dp"
-                                    android:textSize="18dp"
+                                    android:textSize="14dp"
                                     android:layout_below="@+id/txt_rating"
                                     android:textStyle="bold"
-                                    android:textColor="@color/cardview_light_background"
+                                    android:textColor="@color/tw__composer_black"
                                     android:layout_marginStart="10dp"
                                     android:layout_marginLeft="10dp"/>
 
@@ -284,12 +287,188 @@
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
                                     android:id="@+id/txt_genre"
-                                    android:layout_marginTop="24dp"
+                                    android:layout_marginTop="20dp"
                                     android:textSize="14dp"
                                     android:layout_below="@+id/txt_rating"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_toRightOf="@+id/lbl_Genre"/>
+                                <TextView
+                                    android:text=""
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/lbl_tagline"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_Genre"
+                                    android:textStyle="bold"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginStart="10dp"
+                                    android:layout_marginLeft="10dp"/>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txt_tagline"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_Genre"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_toRightOf="@+id/lbl_tagline"
+                                    android:layout_marginBottom="20dp"/>
+
+                                <TextView
+                                    android:text=""
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/lbl_runTime"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_tagline"
+                                    android:textStyle="bold"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginStart="10dp"
+                                    android:layout_marginLeft="10dp"/>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txt_runTime"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_tagline"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_toRightOf="@+id/lbl_runTime"
+                                    android:layout_marginBottom="20dp"/>
+
+                                <TextView
+                                    android:text=""
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/lbl_budget"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_runTime"
+                                    android:textStyle="bold"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginStart="10dp"
+                                    android:layout_marginLeft="10dp"/>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txt_budget"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_runTime"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_toRightOf="@+id/lbl_budget"
+                                    android:layout_marginBottom="20dp"/>
+
+                                <TextView
+                                    android:text=""
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/lbl_language"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_budget"
+                                    android:textStyle="bold"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginStart="10dp"
+                                    android:layout_marginLeft="10dp"/>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txt_language"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_budget"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_toRightOf="@+id/lbl_language"
+                                    android:layout_marginBottom="20dp"/>
+
+                                <TextView
+                                    android:text=""
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/lbl_cast"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_language"
+                                    android:textStyle="bold"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginStart="10dp"
+                                    android:layout_marginLeft="10dp"/>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txt_cast"
+                                    android:layout_marginTop="20dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_language"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginLeft="10dp"
+                                    android:layout_toRightOf="@+id/lbl_cast"
+                                    android:layout_marginBottom="20dp"/>
+
+                                <TextView
+                                    android:text=""
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/lbl_homepage"
+                                    android:layout_marginTop="24dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/lbl_cast"
+                                    android:textStyle="bold"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginStart="10dp"
+                                    android:layout_marginLeft="10dp"/>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txt_homepage"
+                                    android:layout_marginTop="5dp"
+                                    android:textSize="14dp"
+                                    android:autoLink="web"
+                                    android:textColorLink="@color/tw__composer_black"
+                                    android:layout_below="@+id/lbl_homepage"
                                     android:textColor="@color/cardview_light_background"
                                     android:layout_marginLeft="10dp"
-                                    android:layout_toRightOf="@+id/lbl_Genre"
+                                    android:layout_marginBottom="20dp"/>
+
+                                <TextView
+                                    android:text=""
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/lbl_nearestTheaters"
+                                    android:layout_marginTop="18dp"
+                                    android:textSize="14dp"
+                                    android:layout_below="@+id/txt_homepage"
+                                    android:textStyle="bold"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginStart="10dp"
+                                    android:layout_marginLeft="10dp"/>
+
+                                <TextView
+                                    android:layout_width="wrap_content"
+                                    android:layout_height="wrap_content"
+                                    android:id="@+id/txt_nearestTheaters"
+                                    android:layout_marginTop="5dp"
+                                    android:textSize="14dp"
+                                    android:autoLink="web"
+                                    android:textColorLink="@color/tw__composer_black"
+                                    android:layout_below="@+id/lbl_nearestTheaters"
+                                    android:textColor="@color/tw__composer_black"
+                                    android:layout_marginLeft="10dp"
+                                    android:inputType="textMultiLine"
                                     android:layout_marginBottom="20dp"/>
 
 
@@ -306,7 +485,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         card_view:cardCornerRadius="16dp"
-                        card_view:cardBackgroundColor="#909A53"
+                        card_view:cardBackgroundColor="@color/tw__composer_black"
                         card_view:cardUseCompatPadding="true"
                         android:id="@+id/cardView3"
                         android:layout_below="@+id/cardView2">
@@ -319,17 +498,6 @@
                             <RelativeLayout
                                 android:layout_width="match_parent"
                                 android:layout_height="match_parent">
-                                <TextView
-                                    android:text=""
-                                    android:layout_width="wrap_content"
-                                    android:layout_height="wrap_content"
-                                    android:id="@+id/lbl_youtube"
-                                    android:layout_marginTop="20dp"
-                                    android:textSize="18dp"
-                                    android:textStyle="bold"
-                                    android:textColor="@color/cardview_light_background"
-                                    android:layout_marginStart="10dp"
-                                    android:layout_marginLeft="10dp"/>
 
 
                                 <android.support.design.widget.FloatingActionButton
@@ -339,16 +507,14 @@
                                     android:layout_gravity="top|right"
                                     android:id="@+id/img_youtubelink"
                                     android:onClick="PlayTrailer"
-                                    android:layout_marginTop="50dp"
-                                    android:layout_below="@+id/lbl_youtube"
-                                    android:layout_marginLeft="125dp"
+                                    android:layout_marginTop="70dp"
+                                    android:layout_marginLeft="170dp"
                                     card_view:backgroundTint="@android:color/transparent"/>
 
                                 <com.google.android.youtube.player.YouTubePlayerView
                                     android:layout_width="wrap_content"
                                     android:layout_height="wrap_content"
-                                    android:id="@+id/youtube_view"
-                                    android:layout_below="@id/lbl_youtube" />
+                                    android:id="@+id/youtube_view" />
 
                             </RelativeLayout>
                         </FrameLayout>

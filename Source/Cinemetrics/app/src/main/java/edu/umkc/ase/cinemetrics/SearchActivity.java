@@ -84,13 +84,15 @@ public class SearchActivity extends AppCompatActivity {
     EditText inputSearch;
 
 
-    String API_URL = "https://api.themoviedb.org/3/discover/movie?";
-    String API_KEY = "api_key=606d616b503278cd9d123c76c7e0e15f";
-    String QUERY="&primary_release_year=2017&popularity>50&original_language=en";
+    final String API_URL = "https://api.themoviedb.org/3/discover/movie?";
+    final String API_KEY = "api_key=606d616b503278cd9d123c76c7e0e15f";
+    final String QUERY="&primary_release_year=2017&popularity>50&original_language=en";
 
-    String SEARCH_API_URL = "https://api.themoviedb.org/3/search/movie?";
-    String SEARCH_QUERY="&query=";
-    String GENRE_QUERY="https://api.themoviedb.org/3/genre/movie/list?";
+    final String SEARCH_API_URL = "https://api.themoviedb.org/3/search/movie?";
+    final String SEARCH_QUERY="&query=";
+    final String GENRE_QUERY="https://api.themoviedb.org/3/genre/movie/list?";
+
+    final String PERSON_QUERY="http://api.tmdb.org/3/search/person?";
     String sourceText;
     TextView outputTextView;
     ArrayList<MoviesModel> finalmovieList = new ArrayList<MoviesModel>();
@@ -105,7 +107,7 @@ public class SearchActivity extends AppCompatActivity {
     private ImageView btnSpeak;
     //Speech to Text
 
-    UserModel userModel = null;
+    public static UserModel userModel = null;
     String userName = null;
 
     private SwipeRefreshLayout swipeContainer;
@@ -317,10 +319,11 @@ public class SearchActivity extends AppCompatActivity {
 
                     finalmovieList = new ArrayList<MoviesModel>();
 
+                    String personUrl = PERSON_QUERY+API_KEY+SEARCH_QUERY+arg0;
 
                     SearchActivity.MovieSearchAsyncTaskRunner runner = new SearchActivity.MovieSearchAsyncTaskRunner();
 
-                    runner.execute("getURL",getURL);
+                    runner.execute("searchURL",getURL,personUrl);
                 }
 
             }
@@ -399,7 +402,133 @@ public class SearchActivity extends AppCompatActivity {
                         final String response1 = "";
                         OkHttpClient client = new OkHttpClient();
                         try {
+
                             Request request = new Request.Builder()
+                                    .url(params[1])
+                                    .build();
+                            client.newCall(request).enqueue(new Callback() {
+                                @Override
+                                public void onFailure(Call call, IOException e) {
+                                    System.out.println(e.getMessage());
+                                }
+                                @Override
+                                public void onResponse(Call call, Response response) throws IOException {
+                                    final JSONObject jsonResult;
+                                    final String result = response.body().string();
+                                    ArrayList<String> movieList = new ArrayList<String>();
+                                    try {
+                                        jsonResult = new JSONObject(result);
+                                        JSONArray convertedTextArray = jsonResult.getJSONArray("results");
+
+                                        for(int count=0;count<convertedTextArray.length();count++){
+                                            JSONObject resultObj = (JSONObject) convertedTextArray.get(count);
+                                            final String movieTitle = resultObj.get("title").toString();
+                                            // Log.d("okHttp", jsonResult.toString());
+                                            final String moviePoster = resultObj.get("poster_path").toString();
+                                            final String[] genre = resultObj.get("genre_ids").toString().replace("[", "").replace("]", "").split(",");
+                                            final String language = resultObj.get("original_language").toString();
+                                            final String releaseDate = resultObj.get("release_date").toString();;
+
+                                            String genreFields = "";
+                                            for (String str : genre) {
+                                                genreFields = genreFields + genreMap.get(str) + ",";
+                                            }
+                                            genreFields = genreFields.substring(0, genreFields.length() - 1);
+
+                                            MoviesModel m = new MoviesModel(movieTitle, genreFields, moviePoster, releaseDate,language);
+
+                                            finalmovieList.add(m);
+                                        }
+
+
+
+
+
+
+                                        runOnUiThread(new Runnable() {
+                                            @Override
+                                            public void run() {
+                                                navigatetoSearchField(finalmovieList);
+                                            }
+                                        });
+
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                            });
+
+
+                        } catch (Exception ex) {
+                            ex.printStackTrace();
+
+                        }
+                    }else{
+                        final String response1 = "";
+                        OkHttpClient client = new OkHttpClient();
+                        try {
+
+                            Request request = new Request.Builder()
+                                    .url(params[2])
+                                    .build();
+                            client.newCall(request).enqueue(new Callback() {
+                                @Override
+                                public void onFailure(Call call, IOException e) {
+                                    System.out.println(e.getMessage());
+                                }
+                                @Override
+                                public void onResponse(Call call, Response response) throws IOException {
+                                    final JSONObject jsonResult;
+                                    final String result = response.body().string();
+                                    ArrayList<String> movieList = new ArrayList<String>();
+                                    try {
+                                        jsonResult = new JSONObject(result);
+                                        JSONArray convertedTextArray1 = jsonResult.getJSONArray("results");
+
+
+                                        for(int count1=0;count1<convertedTextArray1.length();count1++){
+
+                                            JSONObject obj = (JSONObject) convertedTextArray1.get(count1);
+                                            JSONArray convertedTextArray = obj.getJSONArray("known_for");
+
+                                            for(int count=0;count<convertedTextArray.length();count++){
+                                                JSONObject resultObj = (JSONObject) convertedTextArray.get(count);
+                                                final String movieTitle = resultObj.get("title").toString();
+                                                // Log.d("okHttp", jsonResult.toString());
+                                                final String moviePoster = resultObj.get("poster_path").toString();
+                                                final String[] genre = resultObj.get("genre_ids").toString().replace("[", "").replace("]", "").split(",");
+                                                final String language = resultObj.get("original_language").toString();
+                                                final String releaseDate = resultObj.get("release_date").toString();;
+
+                                                String genreFields = "";
+                                                for (String str : genre) {
+                                                    genreFields = genreFields + genreMap.get(str) + ",";
+                                                }
+                                                genreFields = genreFields.substring(0, genreFields.length() - 1);
+
+                                                MoviesModel m = new MoviesModel(movieTitle, genreFields, moviePoster, releaseDate,language);
+
+                                                finalmovieList.add(m);
+                                            }
+                                        }
+
+
+                                        runOnUiThread(new Runnable() {
+                                            @Override
+                                            public void run() {
+                                                navigatetoSearchField(finalmovieList);
+                                            }
+                                        });
+
+                                    } catch (JSONException e) {
+                                        e.printStackTrace();
+                                    }
+                                }
+                            });
+
+
+
+                            request = new Request.Builder()
                                     .url(params[1])
                                     .build();
                             client.newCall(request).enqueue(new Callback() {
@@ -581,6 +710,16 @@ public class SearchActivity extends AppCompatActivity {
                                     SharedPreferenceManager.getSharedInstance().clearAllPreferences();
                                     startFavActivity();
                                     return true;
+                                case R.id.nav_home:
+                                    drawerLayout.closeDrawers();
+                                    SharedPreferenceManager.getSharedInstance().clearAllPreferences();
+                                    startHomeActivity();
+                                    return true;
+                                case R.id.nav_statistics:
+                                    drawerLayout.closeDrawers();
+                                    SharedPreferenceManager.getSharedInstance().clearAllPreferences();
+                                    startStatisticsActivity();
+                                    return true;
                                 default:
                                     return true;
                             }
@@ -641,6 +780,20 @@ public class SearchActivity extends AppCompatActivity {
 
     private void startFavActivity() {
         Intent intent = new Intent(this, FavouriteActivity.class);
+        intent.putExtra("userModelClass", userModel);
+        startActivity(intent);
+        finishAffinity();
+    }
+
+    private void startHomeActivity() {
+        Intent intent = new Intent(this, SearchActivity.class);
+        intent.putExtra("userModelClass", userModel);
+        startActivity(intent);
+        finishAffinity();
+    }
+
+    private void startStatisticsActivity() {
+        Intent intent = new Intent(this, PieMainActivity.class);
         intent.putExtra("userModelClass", userModel);
         startActivity(intent);
         finishAffinity();

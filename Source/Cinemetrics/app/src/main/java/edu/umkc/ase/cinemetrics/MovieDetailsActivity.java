@@ -1,5 +1,6 @@
 package edu.umkc.ase.cinemetrics;
 
+import android.Manifest;
 import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -10,11 +11,17 @@ import android.graphics.Canvas;
 import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 import android.graphics.drawable.LayerDrawable;
+import android.location.Address;
+import android.location.Geocoder;
+import android.location.Location;
+import android.location.LocationListener;
+import android.location.LocationManager;
 import android.media.Image;
 import android.os.AsyncTask;
 import android.os.Build;
 import android.os.Bundle;
 import android.os.StrictMode;
+import android.support.v4.app.ActivityCompat;
 import android.support.v7.app.AlertDialog;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.RecyclerView;
@@ -31,7 +38,6 @@ import android.widget.ImageView;
 import android.widget.PopupWindow;
 import android.widget.RatingBar;
 import android.widget.ScrollView;
-import android.widget.Switch;
 import android.widget.TextView;
 import android.widget.Toast;
 
@@ -67,10 +73,14 @@ import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URL;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Date;
 import java.util.List;
 
+import edu.umkc.ase.cinemetrics.model.MoviesModel;
 import okhttp3.Call;
 import okhttp3.Callback;
 import okhttp3.OkHttpClient;
@@ -78,6 +88,8 @@ import okhttp3.Request;
 import okhttp3.Response;
 import com.google.android.youtube.player.YouTubeBaseActivity;
 import com.facebook.FacebookSdk;
+
+import com.google.android.gms.maps.model.LatLng;
 
 public class MovieDetailsActivity extends YouTubeBaseActivity {
 
@@ -105,18 +117,34 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
     TextView txtRating;
     TextView lblGenre;
     TextView txtGenre;
-    TextView lblYoutube;
+    TextView lblTagline;
+    TextView txtTagline;
+    TextView lblBudget;
+    TextView txtBudget;
+    TextView lblLanguage;
+    TextView txtLanguage;
+    TextView lblCast;
+    TextView txtCast;
+    TextView lblHomepage;
+    TextView txtHomepage;
+    TextView lblRuntime;
+    TextView txtRuntime;
+    TextView lbl_nearestTheaters;
+    TextView txt_nearestTheaters;
+   // TextView lblYoutube;
     String[] genereListUpdated;
+    String[] movieDetails;
     ImageView youTubeLink;
     RatingBar ratingBar;
     public static String videoIdNumber = "";
     RecyclerView recyclerView;
     String language = "";
 
-    Switch sButton;
+    ToggleButton reminderButton;
 
     public final static String TAG = "tag";
     public final static String Genre = "tag";
+    public final static String Movie = "tag";
 
     String movieId = null;
 
@@ -137,6 +165,8 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
 
     int alarmId = 0;
     //Alarm
+    public Geocoder geocoder;
+    public String zipCode= "";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -162,19 +192,86 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
         internalMoviePoster = (ImageView) findViewById(R.id.internal_img_poster);
         txtTitle = (TextView) findViewById(R.id.txt_title);
         txtOverview = (TextView) findViewById(R.id.txt_overview);
-        txtReleaseDate = (TextView) findViewById(R.id.txt_releaseDate);
         txtRating = (TextView) findViewById(R.id.txt_rating);
         txtGenre = (TextView) findViewById(R.id.txt_genre);
         lblPlot = (TextView) findViewById(R.id.lbl_plot);
         lblReleaseDate = (TextView) findViewById(R.id.lbl_releaseDate);
+        txtReleaseDate = (TextView) findViewById(R.id.txt_releaseDate);
         lblRating = (TextView) findViewById(R.id.lbl_rating);
         lblGenre = (TextView) findViewById(R.id.lbl_Genre);
+        lblTagline = (TextView) findViewById(R.id.lbl_tagline);
+        txtTagline = (TextView) findViewById(R.id.txt_tagline);
+        lblBudget = (TextView) findViewById(R.id.lbl_budget);
+        txtBudget = (TextView) findViewById(R.id.txt_budget);
+        lblLanguage = (TextView) findViewById(R.id.lbl_language);
+        txtLanguage = (TextView) findViewById(R.id.txt_language);
+        lblRuntime = (TextView) findViewById(R.id.lbl_runTime);
+        txtRuntime = (TextView) findViewById(R.id.txt_runTime);
+        lblCast = (TextView) findViewById(R.id.lbl_cast);
+        txtHomepage = (TextView) findViewById(R.id.txt_homepage);
+        lblHomepage = (TextView) findViewById(R.id.lbl_homepage);
+        txtCast = (TextView) findViewById(R.id.txt_cast);
+        lbl_nearestTheaters = (TextView) findViewById(R.id.lbl_nearestTheaters);
+        txt_nearestTheaters = (TextView) findViewById(R.id.txt_nearestTheaters);
         youTubeLink = (ImageView) findViewById(R.id.img_youtubelink);
-        lblYoutube = (TextView) findViewById(R.id.lbl_youtube);
+       // lblYoutube = (TextView) findViewById(R.id.lbl_youtube);
         ratingBar = (RatingBar) findViewById(R.id.pop_ratingbar);
-        sButton = (Switch) findViewById(R.id.switch_btn);
+        reminderButton = (ToggleButton) findViewById(R.id.remainderbtn) ;
         mContext = getApplicationContext();
 
+            geocoder = new Geocoder(this);
+            StringBuilder userAddress = new StringBuilder();
+            LocationManager userCurrentLocation = (LocationManager) this
+                    .getSystemService(Context.LOCATION_SERVICE);
+            LocationListener userCurrentLocationListener = new LocationListener() {
+                @Override
+                public void onLocationChanged(Location location) {
+
+                }
+
+                @Override
+                public void onStatusChanged(String provider, int status, Bundle extras) {
+
+                }
+
+                @Override
+                public void onProviderEnabled(String provider) {
+
+                }
+
+                @Override
+                public void onProviderDisabled(String provider) {
+
+                }
+            };
+            LatLng userCurrentLocationCorodinates = null;
+            double latitute = 0, longitude = 0;
+            if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION)
+                    != PackageManager.PERMISSION_GRANTED && ActivityCompat
+                    .checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION)
+                    != PackageManager.PERMISSION_GRANTED) {
+                //show message or ask permissions from the user.
+                Toast.makeText(getBaseContext(),"Please turn on your location!", Toast.LENGTH_SHORT).show();
+                return;
+            }
+            //Getting the current location of the user.
+            userCurrentLocation.requestLocationUpdates(LocationManager.NETWORK_PROVIDER,
+                    0, 0, userCurrentLocationListener);
+            latitute = userCurrentLocation
+                    .getLastKnownLocation(LocationManager.NETWORK_PROVIDER)
+                    .getLatitude();
+            longitude = userCurrentLocation
+                    .getLastKnownLocation(LocationManager.NETWORK_PROVIDER)
+                    .getLongitude();
+            userCurrentLocationCorodinates = new LatLng(latitute,longitude);
+            try {
+                List<Address> addresses = geocoder.getFromLocation(latitute, longitude, 1);
+                zipCode = addresses.get(0).getPostalCode();
+            }
+            catch(Exception ex)
+            {
+                ex.printStackTrace();
+            }
         share = (ImageView) findViewById(R.id.share);
         //added
         youTubePlayerView = (YouTubePlayerView) findViewById(R.id.youtube_view);
@@ -199,19 +296,21 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
             String activity = bundle.getString("activity");
             alarmId = bundle.getInt("_id");
             if(activity.equals("alarm")) {
-                sButton.setChecked(true);
+                reminderButton.setChecked(true);
             }
             else
-            {sButton.setChecked(false);}
+            {
+                reminderButton.setChecked(false);
+            }
         }
         else
-        {sButton.setChecked(false);}
+        {
+            reminderButton.setChecked(false);
+        }
 
 
 
-
-        //Set a CheckedChange Listener for Switch Button
-        sButton.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener(){
+        reminderButton.setOnCheckedChangeListener(new CompoundButton.OnCheckedChangeListener(){
             @Override
             public void onCheckedChanged(CompoundButton cb, boolean on){
                 if(on)
@@ -226,7 +325,6 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
                 }
             }
         });
-
         FetchMovieDetails();
 
         if(userName!=null) {
@@ -349,6 +447,9 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
             findViewById(R.id.towatchtoggleButton).setVisibility(View.INVISIBLE);
             findViewById(R.id.favtoggleButton).setVisibility(View.INVISIBLE);
         }
+
+
+
     }
 
     public void shareOnSocialMedia(View view)
@@ -367,6 +468,12 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
         } else
             Toast.makeText(this, "Unable to post. Please try after sometime!", Toast.LENGTH_SHORT)
                     .show();
+    }
+
+    public void backToSearch(View view){
+        Intent redirect = new Intent(MovieDetailsActivity.this, SearchActivity.class);
+        redirect.putExtra("userModelClass", SearchActivity.userModel);
+        startActivity(redirect);
     }
 
     @Override
@@ -416,13 +523,15 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
                             final String internalPosterUrl = internalPstrUrl;
                             final String title = object.getString("title").toString();
                             final String description = object.getString("overview");
-                            final String releaseDate = object.getString("release_date");
+                            String date = object.getString("release_date");
+                            String[] dateParams = date.split("-");
+                            date = dateParams[1] + "-" + dateParams[2] + "-" +dateParams[0];
+                            final String releaseDate = date;
                             final String genre = object.getString("genre_ids").substring(1,object.getString("genre_ids").length()-1);
                             movieId = object.getString("id");
-                            language = object.get("original_language").toString();
                             final String[] genreList = genre.split(",");
                             final String rating = object.getString("vote_average");
-
+                            final String language = object.getString("original_language").equals("en")?"English":"Not specified";
                             //setting it with complete movie title
                             movieName = title;
 
@@ -432,6 +541,22 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
                                 @Override
                                 protected Object doInBackground(Object[] params) {
                                     genereListUpdated = FetchGenre(genreList);
+                                    return null;
+                                }
+                            }.execute();
+                            OkHttpUtils.cancelCallWithTag(client, Genre);
+                            new AsyncTask() {
+                                @Override
+                                protected Object doInBackground(Object[] params) {
+                                    FetchMoreDetails(movieId);
+                                    return null;
+                                }
+                            }.execute();
+                            OkHttpUtils.cancelCallWithTag(client, Genre);
+                            new AsyncTask() {
+                                @Override
+                                protected Object doInBackground(Object[] params) {
+                                    FetchTheaters(movieName);
                                     return null;
                                 }
                             }.execute();
@@ -461,9 +586,11 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
                                     (txtReleaseDate).setText(releaseDate);
                                     lblRating.setText("Rating:");
                                     (txtRating).setText(rating);
+                                    lblLanguage.setText("Language:");
+                                    (txtLanguage).setText(language);
                                     ratingBar.setRating(Float.parseFloat(rating));///2
                                     youTubeLink.setVisibility(View.VISIBLE);
-                                    lblYoutube.setText("Trailer");
+                                   // lblYoutube.setText("Trailer");
                                 }
                             });
                         }
@@ -492,6 +619,7 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
                 .url(genreUrl)
                 .tag(Genre)
                 .build();
+        final StringBuilder genre = new StringBuilder();
 
         try {
             Response response=client.newCall(newRequest).execute();
@@ -500,15 +628,18 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
             try {
                 jsonResult = new JSONObject(result);
                 JSONArray convertedTextArray = jsonResult.getJSONArray("genres");
+
                 for (int i = 0; i < convertedTextArray.length(); i++)
                 {
                     for (int j = 0; j < genreList.length; j++) {
                         if (convertedTextArray.getJSONObject(i).getString("id").equals(genreList[j]))
                         {
-                            genreList[j] = convertedTextArray.getJSONObject(i).getString("name");
+                           // genreList[j] = convertedTextArray.getJSONObject(i).getString("name");
+                            genre.append(convertedTextArray.getJSONObject(i).getString("name")).append(",");
                         }
                     }
                 }
+                genre.deleteCharAt(genre.length() - 1);
             }
             catch (JSONException ex)
             {}
@@ -522,9 +653,165 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
             public void run()
             {
                 lblGenre.setText("Genre:");
-                (txtGenre).setText(genreList[0]);
+                (txtGenre).setText(genre.toString());
             }});
         return genreList;
+    }
+
+    public void FetchMoreDetails(final String movieId)
+    {
+        String[] castList = null;
+        String cast = "";
+
+        //final String[] genreListIn = genreList;
+//        String genreUrl = "https://api.themoviedb.org/3/genre/movie/list?language=en-US&api_key=cefdee46a223603265c8a1ef40bd20d6";
+
+        String movieDetailsUrl = "https://api.themoviedb.org/3/movie/"
+                    +movieId +"?api_key=cefdee46a223603265c8a1ef40bd20d6&append_to_response=credits";
+        OkHttpClient client=new OkHttpClient();
+        Request newRequest=new Request.Builder()
+                .url(movieDetailsUrl)
+                .tag(Movie)
+                .build();
+
+        try {
+            Response response=client.newCall(newRequest).execute();
+            final JSONObject jsonResult;
+            final String result = response.body().string();
+            try
+            {
+                jsonResult = new JSONObject(result);
+
+                final String tagline = jsonResult.getString("tagline");
+                final String budget = jsonResult.getString("budget");
+//                if(jsonResult.getString("original_language").equals("en")) {
+//                    final String language = "english";
+//                }
+//                else
+//                {
+//                    final String language = "Not specified";
+//                }
+
+                //JSONArray convertedTextArray = jsonResult.getJSONArray("credits");
+                JSONObject object = jsonResult.getJSONObject("credits");
+                JSONArray conJsonArray = object.getJSONArray("cast");
+
+                for (int i = 0; i < 5; i++)
+                {
+                    if(i==0) {
+                        cast = conJsonArray.getJSONObject(i).getString("name");
+                    }
+                    else
+                    {cast = cast + ", " + conJsonArray.getJSONObject(i).getString("name");}
+                }
+                final String movieCast = cast;
+                final String movieHomepage = jsonResult.getString("homepage");
+                String rumtime = jsonResult.getString("runtime");
+                int hours = (Integer.parseInt(rumtime)) / 60; //since both are ints, you get an int
+                int minutes = (Integer.parseInt(rumtime)) % 60;
+                final String runTime = hours + "h " +minutes +"m";
+
+                runOnUiThread(new Runnable() {
+                    @Override
+                    public void run()
+                    {
+                        lblTagline.setText("Movie Tagline:");
+                        (txtTagline).setText(tagline);
+                        lblRuntime.setText("Movie Runtime:");
+                        (txtRuntime).setText(runTime);
+                        lblBudget.setText("Movie Budget:");
+                        (txtBudget).setText("$ " +budget);
+                        lblCast.setText("Cast:");
+                        (txtCast).setText(movieCast);
+                        lblHomepage.setText("Movie Homepage:");
+                        (txtHomepage).setText(movieHomepage);
+                    }});
+            }
+            catch (JSONException ex)
+            {
+                ex.printStackTrace();
+            }
+
+        } catch (IOException e) {
+            e.printStackTrace();
+            Log.d("Http3","ran into exception: "+e.getMessage());
+        }
+
+//        return movieDetails;
+    }
+
+    public void FetchTheaters(final String movieName)
+    {
+        //String[] theaterList = null;
+        final StringBuilder theater = new StringBuilder();
+        Date today = new Date();
+        SimpleDateFormat DATE_FORMAT = new SimpleDateFormat("yyyy-MM-dd");
+        String date = DATE_FORMAT.format(today);
+
+         String movieDetailsUrl = "http://data.tmsapi.com/v1.1/movies/showings?startDate="
+                //+date +"&zip=66062&api_key=j3hfvhnnhwgwjx3n8wtwbx99";
+                 +date +"&zip=" + zipCode +"&api_key=j3hfvhnnhwgwjx3n8wtwbx99";
+        OkHttpClient client = new OkHttpClient();
+
+        Request request = new Request.Builder()
+                .url(movieDetailsUrl)
+                .tag(Genre)
+                .build();
+        client.newCall(request).enqueue(new Callback() {
+            @Override
+            public void onFailure(Call call, IOException e) {
+                System.out.println(e.getMessage());
+            }
+            @Override
+            public void onResponse(Call call, Response response) throws IOException {
+                final JSONArray jsonResult;
+                final String result = response.body().string();
+                ArrayList<String> movieList = new ArrayList<String>();
+                try {
+                    jsonResult = new JSONArray(result);
+
+
+                    for(int count=0;count<jsonResult.length();count++){
+                        JSONObject jsonObj = (JSONObject) jsonResult.get(count);
+                        if(movieName.equalsIgnoreCase(jsonObj.get("title").toString())){
+                            JSONArray jarray = jsonObj.getJSONArray("showtimes");
+                            for(int count1=0;count1<jarray.length();count1++){
+                                JSONObject jsonObj1 = jarray.getJSONObject(count1);
+
+                                if(jsonObj1.has("theatre") && jsonObj1.has("ticketURI")) {
+                                    JSONObject job = jsonObj1.getJSONObject("theatre");
+
+                                    if(!theater.toString().contains(job.get("name").toString())) {
+                                        theater.append(job.get("name").toString()).append(" : ").append(jsonObj1.get("ticketURI").toString()).append("\n\n");
+                                    }
+                                    else {
+                                        //do nothing
+                                    }
+                                }
+                            }
+                        }
+                    }
+
+                   // if(theater.length()>0)
+                     //   theater.deleteCharAt(theater.length() - 1);
+
+                    runOnUiThread(new Runnable() {
+                        @Override
+                        public void run()
+                        {
+                            lbl_nearestTheaters.setText("Nearest Movie Theaters:");
+                            txt_nearestTheaters.setText(theater.toString());
+                        }});
+
+                } catch (JSONException e) {
+                    e.printStackTrace();
+                }
+            }
+        });
+
+
+
+//        return movieDetails;
     }
 
     public void FetchVideoId(String movieName)
@@ -592,6 +879,7 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
         Intent intent = new Intent(this, AlarmActivity.class);
         Bundle extras = new Bundle();
         extras.putString("moviename", movieName); //movie name
+        extras.putString("userName", userName);
         extras.putString("alarm", "on");
         intent.putExtras(extras);
         startActivity(intent);
@@ -602,6 +890,7 @@ public class MovieDetailsActivity extends YouTubeBaseActivity {
         Intent intent = new Intent(this, AlarmActivity.class);
         Bundle extras = new Bundle();
         extras.putString("moviename", movieName); //movie name
+        extras.putString("userName", userName);
         extras.putString("alarm", "off");
         extras.putInt("id", alarmId);
         intent.putExtras(extras);

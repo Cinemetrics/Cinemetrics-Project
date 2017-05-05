@@ -239,6 +239,16 @@ public class FavouriteActivity extends AppCompatActivity {
                                     SharedPreferenceManager.getSharedInstance().clearAllPreferences();
                                     startFavActivity();
                                     return true;
+                                case R.id.nav_home:
+                                    drawerLayout.closeDrawers();
+                                    SharedPreferenceManager.getSharedInstance().clearAllPreferences();
+                                    startHomeActivity();
+                                    return true;
+                                case R.id.nav_statistics:
+                                    drawerLayout.closeDrawers();
+                                    SharedPreferenceManager.getSharedInstance().clearAllPreferences();
+                                    startStatisticsActivity();
+                                    return true;
                                 default:
                                     return true;
                             }
@@ -282,6 +292,19 @@ public class FavouriteActivity extends AppCompatActivity {
         finishAffinity();
     }
 
+    private void startHomeActivity() {
+        Intent intent = new Intent(this, SearchActivity.class);
+        intent.putExtra("userModelClass", userModel);
+        startActivity(intent);
+        finishAffinity();
+    }
+
+    private void startStatisticsActivity() {
+        Intent intent = new Intent(this, PieMainActivity.class);
+        intent.putExtra("userModelClass", userModel);
+        startActivity(intent);
+        finishAffinity();
+    }
 
     private void setupDrawerContent(UserModel userModel)
     {

@@ -9,6 +9,7 @@ import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.support.v7.widget.Toolbar;
+import android.util.DisplayMetrics;
 import android.view.View;
 import android.widget.Button;
 import android.widget.DatePicker;
@@ -36,6 +37,7 @@ public class AlarmActivity extends AppCompatActivity implements View.OnClickList
     private int mYear, mMonth, mDay, mHour, mMinute;
     Calendar calendar;
     Intent intent;
+    String userName;
     String movieName;
     boolean alarm;
     int alarmId = 0;
@@ -50,6 +52,11 @@ public class AlarmActivity extends AppCompatActivity implements View.OnClickList
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_alarm);
 
+        DisplayMetrics dm = new DisplayMetrics();
+        getWindowManager().getDefaultDisplay().getMetrics(dm);
+        int width = dm.widthPixels;
+        int height = dm.widthPixels;
+        getWindow().setLayout((int)(width*0.9), (int)(height*0.6));
 
         alarmManager = (AlarmManager) getSystemService(ALARM_SERVICE);
 
@@ -65,13 +72,14 @@ public class AlarmActivity extends AppCompatActivity implements View.OnClickList
         toggleButton = (ToggleButton)findViewById(R.id.toggleButton);
         Bundle bundle = getIntent().getExtras();
         movieName = bundle.getString("moviename");
+        userName = bundle.getString("userName");
         alarmType = bundle.getString("alarm");
         if(alarmType.equals("off"))
         {
             alarmNumber = bundle.getInt("id");
             deleteAlarm(alarmNumber);
         }
-        txtAlarmName.setText(movieName);
+        txtAlarmName.setText("Set Reminder: "+movieName);
 
         if(toggleButton.isChecked())
         {
@@ -179,6 +187,7 @@ public class AlarmActivity extends AppCompatActivity implements View.OnClickList
         Intent intent = new Intent(this, MovieDetailsActivity.class);
         Bundle extras = new Bundle();
         extras.putString("movieName", movieName); //movie name
+        extras.putString("userName", userName);
         extras.putInt("_id", alarmId);
         if(alarm == true)
         {

@@ -1,4 +1,4 @@
-#Fri Apr 28 22:03:35 CST 2017
+#Mon May 01 21:51:07 CST 2017
 base.0=S\:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_206a34829fcf1b2cb5609abfcb5151ed4350edee
 renamed.1=classes2.dex
 renamed.0=classes.dex

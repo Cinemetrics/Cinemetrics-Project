@@ -71,7 +71,7 @@ public class MovieAdapter extends RecyclerView.Adapter<View_Holder> {
     public void onBindViewHolder(View_Holder holder, int position) {
         holder.title.setText(list.get(position).getMovieName());
         holder.description.setText(list.get(position).getGenre());
-        Picasso.with(holder.imageView.getContext()).load(list.get(position).getPosterId()).error(android.R.drawable.sym_contact_card).placeholder(android.R.drawable.sym_contact_card).into(holder.imageView);
+        Picasso.with(holder.imageView.getContext()).load(list.get(position).getPosterId()).error(android.R.drawable.screen_background_dark_transparent).into(holder.imageView);
 
         final String movieName = list.get(position).getMovieName();
         final String moviePoster = list.get(position).getPosterId();

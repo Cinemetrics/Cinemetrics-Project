@@ -8,6 +8,9 @@
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.USE_CREDENTIALS" />
 
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+
     <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
     <uses-permission android:name="android.permission.VIBRATE"></uses-permission>
     <application
@@ -64,13 +67,14 @@
             android:value="f69373ce953288159bbf0e6f0edd3380427e8f9a" />
 
         <activity android:name=".MovieDetailsActivity">
-            <provider android:authorities="com.facebook.app.FacebookContentProvider531430987245317"
-                android:name="com.facebook.FacebookContentProvider"
-                android:exported="true">
-            </provider>
+
         </activity>
-        <activity android:name=".AlarmActivity"></activity>
+        <activity android:name=".AlarmActivity" android:theme="@style/AppTheme.CustomTheme"></activity>
         <receiver android:name=".AlarmReceiver" />
+        <provider android:authorities="com.facebook.app.FacebookContentProvider531430987245317"
+            android:name="com.facebook.FacebookContentProvider"
+            android:exported="true">
+        </provider>
     </application>
 
 </manifest>

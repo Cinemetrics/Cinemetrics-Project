@@ -56,7 +56,7 @@ public class AlarmReceiver extends BroadcastReceiver {
                     .setContentText("New Notification From Cinemetrics App..")
                     .setTicker("New Message Alert!")
 //                    .setSmallIcon(R.mipmap.ic_launcher)
-                    .setSmallIcon(R.drawable.notification)
+                    .setSmallIcon(R.drawable.logo3)
                     .setContentTitle(notificatioTitle)
                     .setContentText(notificatioText)
                     .setContentIntent(pendingIntent).build();

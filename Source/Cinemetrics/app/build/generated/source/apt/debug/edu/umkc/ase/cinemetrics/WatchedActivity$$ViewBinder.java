@@ -8,10 +8,10 @@ import butterknife.ButterKnife.ViewBinder;
 public class WatchedActivity$$ViewBinder<T extends edu.umkc.ase.cinemetrics.WatchedActivity> implements ViewBinder<T> {
   @Override public void bind(final Finder finder, final T target, Object source) {
     View view;
-    view = finder.findRequiredView(source, 2131689613, "field 'navigationView'");
-    target.navigationView = finder.castView(view, 2131689613, "field 'navigationView'");
-    view = finder.findRequiredView(source, 2131689612, "field 'drawerLayout'");
-    target.drawerLayout = finder.castView(view, 2131689612, "field 'drawerLayout'");
+    view = finder.findRequiredView(source, 2131689646, "field 'navigationView'");
+    target.navigationView = finder.castView(view, 2131689646, "field 'navigationView'");
+    view = finder.findRequiredView(source, 2131689645, "field 'drawerLayout'");
+    target.drawerLayout = finder.castView(view, 2131689645, "field 'drawerLayout'");
   }
 
   @Override public void unbind(T target) {

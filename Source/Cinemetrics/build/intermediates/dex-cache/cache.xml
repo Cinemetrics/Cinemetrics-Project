@@ -3,57 +3,30 @@
 
     <item
         is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.6.6\jars\classes.jar"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="1360908bc3e1751f5e2248e64aedbe4b5944b702">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-1.6.6_cab1a640a3cd8e70c1a8458ed9b4ad27d6fc16d8\classes.dex" />
+        sha1="b82b8e847173c28efffcd291b2a0b1ae9ad17fa4">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-8.4.0_a4d672e0e67cb41a4ad10e7d88ed2bb105039908\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_cd659a7f2628b290cc707c661ef0ffe7585417c9\classes.dex" />
+        sha1="b5e7892fb0708e792e0e933c4c0a0ca0ac7831fb">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-8.4.0_aa38430a17fc6df7d8c3c8ae11fe8a80c6a906f2\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_96e8fb8ac51745342b3c93910779daae2591c875\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_ed15856f43ae56b96981c848918bba637c19ae59\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\1.0.3\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="0ea42614d0d3d5e9f507cb2f432ae821307cd0dc">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-1.0.3_562109cdc2d5ad7dbcf32604cb6d14e7a767dcc9\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.10.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="2d903060c54d0109fc4efa404a62fac2158d6633">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-1.10.1_0b3a1c2fd8ff98a9748308430db29e15e94e69d1\classes.dex" />
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_f602d90496167e13367ca4bafd85f75ef6074154\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,93 +48,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.10.0_1415c86ad2a9056011937f91773036ecd7830fdc\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_4ab34b7279ff95d39e6e97aa78f545e5c7f57ffb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.facebook.android\facebook-android-sdk\4.5.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="15ad6a46fb8e2ed86556e0b330d738b589dc62c7">
         <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.android-facebook-android-sdk-4.5.0_897f7e3205fd125ec776cb148ec10e1bf552a436\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.13.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e25d39642cf82ff86e13390e7854ef135df232ea">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-1.13.1_7f6f811d8ffdb0d874de765db70e86f85ba20a2a\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_9392ceb319caf8bbc411502812a09f4e905a6e5e\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.2_101581c89c33ef5f53521a3b7fedb6f40cc4a451\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\libs\YouTubeAndroidPlayerApi.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_f122be5dd80fdbb3f661fdaf9c3b2a74dc54cf3d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_cba57057ac88a6cea0983045a1d42b72e664b264\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="855d7114ab74c4e3b0464eaeed39c1be0205aa40">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_206a34829fcf1b2cb5609abfcb5151ed4350edee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_d0f1d65e95b26a16a0fee58e7afdf6b6fb117bc1\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -174,57 +66,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.10\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.10_564d7136b2ace30f12b95a3599edc3d956d153e5\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_f104ed2fe1fe8a030f9a33eaf7e4c5cd8e8e0395\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_5b537ec4d53fd346e4381151c1dce7dbc3d65506\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.4.1\c7c4f9e35c2fd5900da24f9872e3971801f08ce0\okhttp-3.4.1.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
         sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
         <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.4.1_5851bd0575668a36faa4aba07a0a9b69ee116a14\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.10.0_e1199048bfdd90d7403a7a1dc38a4b743731b5cd\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_4041c8bc3c0727f5ddef6061685b8d6393b3faa3\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -237,21 +84,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_2e8d05dc5a894e871a587be07d82fc6918ccb0fb\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="725086a3191b040817f299da726e65844bb00c79">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_868ab0b5cd62fffc9551d97b4a2fee9da5ce34a0\classes.dex" />
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_932e7ea138060f0293069e75c695ca1a884c5c39\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -273,21 +111,102 @@
     </item>
     <item
         is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.0_1f5b5e6e7378640fb54b131f4866ee5b75ee51eb\classes.dex" />
+        sha1="9fe026fb4c7fce21bc5142f6e1bdf844f28061ac">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-8.4.0_3b7e33f14ab4bff07313c0f64254eda11f40873c\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.4.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_47315d06ec56f9fbe9c250396052a7332edcc80c\classes.dex" />
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-measurement-8.4.0_3d00ec2f4e28cd853967e2a62c3a602e3cf2e46a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1a78298e7724d5440d210bcb946b3493250d354d">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-8.4.0_6377054609d17536bc2ea3fa949ac44663512b9a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.1.1_4ab34b7279ff95d39e6e97aa78f545e5c7f57ffb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\libs\YouTubeAndroidPlayerApi.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\2\YouTubeAndroidPlayerApi_f122be5dd80fdbb3f661fdaf9c3b2a74dc54cf3d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8c11392210f0b89986bbe0a30d25dc537182835a">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_206a34829fcf1b2cb5609abfcb5151ed4350edee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\io.fabric.sdk.android\fabric\1.3.10\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a5db9a2dd46d84285ef737f65030b74b6e8ee2a4">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\io.fabric.sdk.android-fabric-1.3.10_564d7136b2ace30f12b95a3599edc3d956d153e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="c54246475c1bb64ac6857d1320364bfbfeda2c46">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-8.4.0_c0abc4557b337db15eeb3acd7f7237c3c6b0c312\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d323cf4983bdfce7136a1ce5e32710e1b36b20fe">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.10.0_e1199048bfdd90d7403a7a1dc38a4b743731b5cd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_0f481344f9270741cceb751a1e69bcb0462b0013\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\design\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.1.1_2e8d05dc5a894e871a587be07d82fc6918ccb0fb\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -297,15 +216,6 @@
         revision="23.0.2"
         sha1="6e1ed00013584399dbe27d45ac1fd6a9828c9fca">
         <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.10.0_0919a5303d3cc1cababc2c86de108949b84de3d3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="829c6e46cb221c2102801221c648b77113743e81">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_6b927a2003da0e84b4e24209cfb1c7703287811c\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -327,12 +237,282 @@
     </item>
     <item
         is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.twitter\twitter-text\1.13.0\78415b95ae3184c5926d593feab64bfc0b73b2dd\twitter-text-1.13.0.jar"
         jumboMode="true"
         optimize="true"
         revision="23.0.2"
-        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_129a88698c4053704ced6bf1cb5ec555cfe7d705\classes.dex" />
+        sha1="78415b95ae3184c5926d593feab64bfc0b73b2dd">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\twitter-text-1.13.0_96e8fb8ac51745342b3c93910779daae2591c875\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.9.0\f824591a0016efbaeddb8300bee54832a1398cfa\okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.9.0_ed15856f43ae56b96981c848918bba637c19ae59\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.10.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5e88a2a26ac71cd7f8fd8bd9f9381fa06d1a47a3">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.10.0_1415c86ad2a9056011937f91773036ecd7830fdc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-8.4.0_9b21beb0308675a8473efb1ac34fc46da0cc09eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.github.PhilJay\MPAndroidChart\v3.0.2\5d4eb08a326bdbd7fbbddc769666898c9936b282\MPAndroidChart-v3.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5d4eb08a326bdbd7fbbddc769666898c9936b282">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\MPAndroidChart-v3.0.2_101581c89c33ef5f53521a3b7fedb6f40cc4a451\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.1.1_cba57057ac88a6cea0983045a1d42b72e664b264\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="f2df436a8f02ce7e4d7d209671fc45f97c470f0e">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-8.4.0_3d732342136c0363d8f155588627d02c0afe79f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d96d84ccb22ed2c027ce60f6f8a0c5ac22b4c0ae">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_868ab0b5cd62fffc9551d97b4a2fee9da5ce34a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="9cad249cf62751a323d9af568caf12284b7d6062">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-8.4.0_d230496463d9d280841f2eb7839cbf463c216df5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_dbc4519c86a69583b3d95db8d1d9d751723aecc2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter-core\1.6.6\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1360908bc3e1751f5e2248e64aedbe4b5944b702">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-core-1.6.6_cab1a640a3cd8e70c1a8458ed9b4ad27d6fc16d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e167a34eaca0b31704212f43f9576ea84e05046f">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-8.4.0_48eab2da5cd83bd9bfad5525ad2d91490fbcb0df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-composer\1.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0ea42614d0d3d5e9f507cb2f432ae821307cd0dc">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-composer-1.0.3_562109cdc2d5ad7dbcf32604cb6d14e7a767dcc9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.twitter.sdk.android\tweet-ui\1.10.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d903060c54d0109fc4efa404a62fac2158d6633">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-tweet-ui-1.10.1_0b3a1c2fd8ff98a9748308430db29e15e94e69d1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-8.4.0_9b861ad3fd115ae7c499d2740880abbc5a8d0ae7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_28f899e4f645bbfe4767125fad2bda34a2e919df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="551e78f21acf69ebfb489c0e79647824c838013e">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-8.4.0_9c5332e0afe15deb7615f00b1501093e3bc0732d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="dfecc4d835cdabcdecf7e95f0d20a3ef1e9d8ef4">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-8.4.0_6a698b675028be7c421b5b62d4ddeade752eeee2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.twitter.sdk.android\twitter\1.13.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e25d39642cf82ff86e13390e7854ef135df232ea">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.twitter.sdk.android-twitter-1.13.1_7f6f811d8ffdb0d874de765db70e86f85ba20a2a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="08d34b2d135c1cc96ab506fd8bf6916d1e2f391a">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-8.4.0_545f1b0b41ebc92542aa8b9b212249a51a32720d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.1.1_9392ceb319caf8bbc411502812a09f4e905a6e5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="1c9f35e952b212c843f7bd2c7eec8e82ad95602e">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-8.4.0_b5fe2f1ec27db4be5d888c15a30b5946f13ff924\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_d0f1d65e95b26a16a0fee58e7afdf6b6fb117bc1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.1.1_f104ed2fe1fe8a030f9a33eaf7e4c5cd8e8e0395\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="0194a7409c40de94fb539d4ad9928ec5d47afeb7">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-8.4.0_f1788338e817e4865fb44a2dcecc622ed1dd3430\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b36f30ac5ee5d5214f4b1e2ac49f11889d58e71a">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-8.4.0_8a63d08a235f471e8d20abd844ef42821cbb316c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="3a364cc6b698d1b3b2d284f64618daaa7fe77ddf">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-8.4.0_47c0a2d00b1df9cddfeb89d557c8649fda730f65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="d96886efea7cc74fbb3abd0e3b51d5638fc57be0">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.1.0_1f5b5e6e7378640fb54b131f4866ee5b75ee51eb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="966e5771a5a2ebfb31bf00d7cd6cd2546d245517">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-8.4.0_7e9af45a1609e09482bee540885b5ae72f536b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-8.4.0_97e9b73a61f79c897502da6b34d76dd5c0b0eaae\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.2"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_2aacc71bbb175ee0fa367202653b1258c6860ff7\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -351,24 +531,6 @@
         revision="23.0.2"
         sha1="857099e23430445aeb65cf703d5adf646ff280f1">
         <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.10.0_cf168aa441740643a4103c9e8582d80c9ecafbaf\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_a4c93256144f11c04bb1baf7300125d313c437db\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\vinuthna\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.2.0\6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd\bolts-android-1.2.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="23.0.2"
-        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
-        <dex dex="S:\new\Cinemetrics\Cinemetrics\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-android-1.2.0_dbc4519c86a69583b3d95db8d1d9d751723aecc2\classes.dex" />
     </item>
 
 </items>

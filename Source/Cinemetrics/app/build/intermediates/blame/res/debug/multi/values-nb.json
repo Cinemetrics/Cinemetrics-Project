@@ -6,10 +6,10 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endLine": 5,
                     "endColumn": 14,
-                    "endOffset": 184
+                    "endOffset": 234
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -27,10 +27,10 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 189,
+                    "startOffset": 239,
                     "endLine": 9,
                     "endColumn": 14,
-                    "endOffset": 317
+                    "endOffset": 367
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -48,10 +48,10 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 322,
+                    "startOffset": 372,
                     "endLine": 13,
                     "endColumn": 14,
-                    "endOffset": 450
+                    "endOffset": 500
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -69,9 +69,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 455,
+                    "startOffset": 505,
                     "endColumn": 107,
-                    "endOffset": 558
+                    "endOffset": 608
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -88,9 +88,9 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 563,
+                    "startOffset": 613,
                     "endColumn": 108,
-                    "endOffset": 667
+                    "endOffset": 717
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -107,9 +107,9 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 672,
+                    "startOffset": 722,
                     "endColumn": 124,
-                    "endOffset": 792
+                    "endOffset": 842
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -126,9 +126,9 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 797,
+                    "startOffset": 847,
                     "endColumn": 94,
-                    "endOffset": 887
+                    "endOffset": 937
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -145,9 +145,9 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 892,
+                    "startOffset": 942,
                     "endColumn": 113,
-                    "endOffset": 1001
+                    "endOffset": 1051
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -164,9 +164,9 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1006,
+                    "startOffset": 1056,
                     "endColumn": 85,
-                    "endOffset": 1087
+                    "endOffset": 1137
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -183,9 +183,9 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1092,
+                    "startOffset": 1142,
                     "endColumn": 99,
-                    "endOffset": 1187
+                    "endOffset": 1237
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -202,9 +202,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1192,
+                    "startOffset": 1242,
                     "endColumn": 112,
-                    "endOffset": 1300
+                    "endOffset": 1350
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -221,9 +221,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1305,
+                    "startOffset": 1355,
                     "endColumn": 75,
-                    "endOffset": 1376
+                    "endOffset": 1426
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -240,9 +240,9 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1381,
+                    "startOffset": 1431,
                     "endColumn": 75,
-                    "endOffset": 1452
+                    "endOffset": 1502
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -259,9 +259,9 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1457,
+                    "startOffset": 1507,
                     "endColumn": 79,
-                    "endOffset": 1532
+                    "endOffset": 1582
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -278,9 +278,9 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1537,
+                    "startOffset": 1587,
                     "endColumn": 102,
-                    "endOffset": 1635
+                    "endOffset": 1685
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -297,9 +297,9 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1640,
+                    "startOffset": 1690,
                     "endColumn": 98,
-                    "endOffset": 1734
+                    "endOffset": 1784
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -316,9 +316,9 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1739,
+                    "startOffset": 1789,
                     "endColumn": 95,
-                    "endOffset": 1830
+                    "endOffset": 1880
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -335,9 +335,9 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1835,
+                    "startOffset": 1885,
                     "endColumn": 103,
-                    "endOffset": 1934
+                    "endOffset": 1984
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -354,9 +354,9 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1939,
+                    "startOffset": 1989,
                     "endColumn": 97,
-                    "endOffset": 2032
+                    "endOffset": 2082
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -373,9 +373,9 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2037,
+                    "startOffset": 2087,
                     "endColumn": 100,
-                    "endOffset": 2133
+                    "endOffset": 2183
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -392,9 +392,9 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2138,
+                    "startOffset": 2188,
                     "endColumn": 115,
-                    "endOffset": 2249
+                    "endOffset": 2299
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -411,9 +411,9 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2254,
+                    "startOffset": 2304,
                     "endColumn": 96,
-                    "endOffset": 2346
+                    "endOffset": 2396
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -430,9 +430,9 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2351,
+                    "startOffset": 2401,
                     "endColumn": 125,
-                    "endOffset": 2472
+                    "endOffset": 2522
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -449,9 +449,9 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2477,
+                    "startOffset": 2527,
                     "endColumn": 124,
-                    "endOffset": 2597
+                    "endOffset": 2647
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -468,9 +468,9 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2602,
+                    "startOffset": 2652,
                     "endColumn": 93,
-                    "endOffset": 2691
+                    "endOffset": 2741
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -487,9 +487,9 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2696,
+                    "startOffset": 2746,
                     "endColumn": 63,
-                    "endOffset": 2755
+                    "endOffset": 2805
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -506,9 +506,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2760,
+                    "startOffset": 2810,
                     "endColumn": 68,
-                    "endOffset": 2824
+                    "endOffset": 2874
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -525,9 +525,9 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2829,
+                    "startOffset": 2879,
                     "endColumn": 61,
-                    "endOffset": 2886
+                    "endOffset": 2936
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -544,9 +544,9 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2891,
+                    "startOffset": 2941,
                     "endColumn": 71,
-                    "endOffset": 2958
+                    "endOffset": 3008
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -563,9 +563,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2963,
+                    "startOffset": 3013,
                     "endColumn": 73,
-                    "endOffset": 3032
+                    "endOffset": 3082
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -582,9 +582,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3037,
+                    "startOffset": 3087,
                     "endColumn": 91,
-                    "endOffset": 3124
+                    "endOffset": 3174
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -601,9 +601,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3129,
+                    "startOffset": 3179,
                     "endColumn": 73,
-                    "endOffset": 3198
+                    "endOffset": 3248
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -620,9 +620,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3203,
+                    "startOffset": 3253,
                     "endColumn": 73,
-                    "endOffset": 3272
+                    "endOffset": 3322
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -639,9 +639,9 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3277,
+                    "startOffset": 3327,
                     "endColumn": 84,
-                    "endOffset": 3357
+                    "endOffset": 3407
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -658,9 +658,9 @@
                 "to": {
                     "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 3362,
+                    "startOffset": 3412,
                     "endColumn": 99,
-                    "endOffset": 3457
+                    "endOffset": 3507
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -677,9 +677,9 @@
                 "to": {
                     "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 3462,
+                    "startOffset": 3512,
                     "endColumn": 62,
-                    "endOffset": 3520
+                    "endOffset": 3570
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -696,9 +696,9 @@
                 "to": {
                     "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 3525,
+                    "startOffset": 3575,
                     "endColumn": 62,
-                    "endOffset": 3583
+                    "endOffset": 3633
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -715,9 +715,9 @@
                 "to": {
                     "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 3588,
+                    "startOffset": 3638,
                     "endColumn": 127,
-                    "endOffset": 3711
+                    "endOffset": 3761
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -734,9 +734,560 @@
                 "to": {
                     "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 3716,
+                    "startOffset": 3766,
+                    "endColumn": 268,
+                    "endOffset": 4030
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3519,
+                        "endColumn": 272,
+                        "endOffset": 3787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4035,
+                    "endColumn": 128,
+                    "endOffset": 4159
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1351,
+                        "endColumn": 128,
+                        "endOffset": 1475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4164,
+                    "endColumn": 190,
+                    "endOffset": 4350
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1156,
+                        "endColumn": 194,
+                        "endOffset": 1346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4355,
+                    "endColumn": 127,
+                    "endOffset": 4478
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1028,
+                        "endColumn": 127,
+                        "endOffset": 1151
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4483,
+                    "endColumn": 132,
+                    "endOffset": 4611
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 895,
+                        "endColumn": 132,
+                        "endOffset": 1023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4616,
+                    "endColumn": 222,
+                    "endOffset": 4834
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 437,
+                        "endColumn": 226,
+                        "endOffset": 659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4839,
+                    "endColumn": 226,
+                    "endOffset": 5061
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 230,
+                        "endOffset": 890
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5066,
+                    "endColumn": 131,
+                    "endOffset": 5193
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 131,
+                        "endOffset": 432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5198,
+                    "endColumn": 171,
+                    "endOffset": 5365
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2762,
+                        "endColumn": 171,
+                        "endOffset": 2929
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5370,
+                    "endColumn": 118,
+                    "endOffset": 5484
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2643,
+                        "endColumn": 118,
+                        "endOffset": 2757
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5489,
+                    "endColumn": 171,
+                    "endOffset": 5656
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2471,
+                        "endColumn": 171,
+                        "endOffset": 2638
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5661,
+                    "endColumn": 119,
+                    "endOffset": 5776
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2351,
+                        "endColumn": 119,
+                        "endOffset": 2466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5781,
+                    "endColumn": 134,
+                    "endOffset": 5911
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 134,
+                        "endOffset": 300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5916,
+                    "endColumn": 169,
+                    "endOffset": 6081
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4230,
+                        "endColumn": 169,
+                        "endOffset": 4395
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6086,
+                    "endColumn": 127,
+                    "endOffset": 6209
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4102,
+                        "endColumn": 127,
+                        "endOffset": 4225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6214,
+                    "endColumn": 182,
+                    "endOffset": 6392
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3919,
+                        "endColumn": 182,
+                        "endOffset": 4097
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6397,
+                    "endColumn": 126,
+                    "endOffset": 6519
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3792,
+                        "endColumn": 126,
+                        "endOffset": 3914
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6524,
+                    "endColumn": 248,
+                    "endOffset": 6768
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values-nb\\common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 252,
+                        "endOffset": 418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6773,
+                    "endColumn": 250,
+                    "endOffset": 7019
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3059,
+                        "endColumn": 254,
+                        "endOffset": 3309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7024,
+                    "endColumn": 124,
+                    "endOffset": 7144
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2934,
+                        "endColumn": 124,
+                        "endOffset": 3054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7149,
+                    "endColumn": 108,
+                    "endOffset": 7253
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3314,
+                        "endColumn": 108,
+                        "endOffset": 3418
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7258,
+                    "endColumn": 191,
+                    "endOffset": 7445
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1610,
+                        "endColumn": 195,
+                        "endOffset": 1801
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7450,
+                    "endColumn": 129,
+                    "endOffset": 7575
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1480,
+                        "endColumn": 129,
+                        "endOffset": 1605
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 7580,
+                    "endColumn": 200,
+                    "endOffset": 7776
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2146,
+                        "endColumn": 204,
+                        "endOffset": 2346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 7781,
+                    "endColumn": 133,
+                    "endOffset": 7910
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2012,
+                        "endColumn": 133,
+                        "endOffset": 2141
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 7915,
+                    "endColumn": 205,
+                    "endOffset": 8116
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1806,
+                        "endColumn": 205,
+                        "endOffset": 2007
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 8121,
+                    "endColumn": 95,
+                    "endOffset": 8212
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3423,
+                        "endColumn": 95,
+                        "endOffset": 3514
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 8217,
+                    "endColumn": 91,
+                    "endOffset": 8304
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4400,
+                        "endColumn": 91,
+                        "endOffset": 4487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 8309,
+                    "endColumn": 107,
+                    "endOffset": 8412
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values-nb\\base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4492,
+                        "endColumn": 107,
+                        "endOffset": 4595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 8417,
                     "endColumn": 50,
-                    "endOffset": 3762
+                    "endOffset": 8463
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -751,11 +1302,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 3767,
+                    "startOffset": 8468,
                     "endColumn": 50,
-                    "endOffset": 3813
+                    "endOffset": 8514
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -770,11 +1321,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 3818,
+                    "startOffset": 8519,
                     "endColumn": 68,
-                    "endOffset": 3882
+                    "endOffset": 8583
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -789,11 +1340,11 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 3887,
+                    "startOffset": 8588,
                     "endColumn": 100,
-                    "endOffset": 3983
+                    "endOffset": 8684
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -808,11 +1359,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 3988,
+                    "startOffset": 8689,
                     "endColumn": 93,
-                    "endOffset": 4077
+                    "endOffset": 8778
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -827,11 +1378,11 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 4082,
+                    "startOffset": 8783,
                     "endColumn": 128,
-                    "endOffset": 4206
+                    "endOffset": 8907
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -846,11 +1397,11 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 4211,
+                    "startOffset": 8912,
                     "endColumn": 110,
-                    "endOffset": 4317
+                    "endOffset": 9018
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -865,11 +1416,11 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 4322,
+                    "startOffset": 9023,
                     "endColumn": 51,
-                    "endOffset": 4369
+                    "endOffset": 9070
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -884,11 +1435,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 4374,
+                    "startOffset": 9075,
                     "endColumn": 62,
-                    "endOffset": 4432
+                    "endOffset": 9133
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -903,11 +1454,11 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 4437,
+                    "startOffset": 9138,
                     "endColumn": 67,
-                    "endOffset": 4500
+                    "endOffset": 9201
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -922,11 +1473,11 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 4505,
+                    "startOffset": 9206,
                     "endColumn": 72,
-                    "endOffset": 4573
+                    "endOffset": 9274
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -941,11 +1492,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 4578,
+                    "startOffset": 9279,
                     "endColumn": 49,
-                    "endOffset": 4623
+                    "endOffset": 9324
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -960,11 +1511,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 4628,
+                    "startOffset": 9329,
                     "endColumn": 45,
-                    "endOffset": 4669
+                    "endOffset": 9370
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -979,11 +1530,11 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 4674,
+                    "startOffset": 9375,
                     "endColumn": 71,
-                    "endOffset": 4741
+                    "endOffset": 9442
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -998,11 +1549,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 4746,
+                    "startOffset": 9447,
                     "endColumn": 82,
-                    "endOffset": 4824
+                    "endOffset": 9525
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1017,11 +1568,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 4829,
+                    "startOffset": 9530,
                     "endColumn": 69,
-                    "endOffset": 4894
+                    "endOffset": 9595
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1036,11 +1587,11 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 4899,
+                    "startOffset": 9600,
                     "endColumn": 83,
-                    "endOffset": 4978
+                    "endOffset": 9679
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1055,11 +1606,11 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 4983,
+                    "startOffset": 9684,
                     "endColumn": 81,
-                    "endOffset": 5060
+                    "endOffset": 9761
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1074,11 +1625,11 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 5065,
+                    "startOffset": 9766,
                     "endColumn": 77,
-                    "endOffset": 5138
+                    "endOffset": 9839
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1093,11 +1644,11 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 5143,
+                    "startOffset": 9844,
                     "endColumn": 85,
-                    "endOffset": 5224
+                    "endOffset": 9925
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1112,11 +1663,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 5229,
+                    "startOffset": 9930,
                     "endColumn": 49,
-                    "endOffset": 5274
+                    "endOffset": 9975
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1131,11 +1682,11 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 5279,
+                    "startOffset": 9980,
                     "endColumn": 41,
-                    "endOffset": 5316
+                    "endOffset": 10017
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1150,11 +1701,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 5321,
+                    "startOffset": 10022,
                     "endColumn": 70,
-                    "endOffset": 5387
+                    "endOffset": 10088
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1169,11 +1720,11 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 5392,
+                    "startOffset": 10093,
                     "endColumn": 82,
-                    "endOffset": 5470
+                    "endOffset": 10171
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1188,11 +1739,11 @@
             },
             {
                 "to": {
-                    "startLine": 73,
+                    "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 5475,
+                    "startOffset": 10176,
                     "endColumn": 101,
-                    "endOffset": 5572
+                    "endOffset": 10273
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1207,11 +1758,11 @@
             },
             {
                 "to": {
-                    "startLine": 74,
+                    "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 5577,
+                    "startOffset": 10278,
                     "endColumn": 83,
-                    "endOffset": 5656
+                    "endOffset": 10357
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1226,11 +1777,11 @@
             },
             {
                 "to": {
-                    "startLine": 75,
+                    "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 5661,
+                    "startOffset": 10362,
                     "endColumn": 89,
-                    "endOffset": 5746
+                    "endOffset": 10447
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1245,11 +1796,11 @@
             },
             {
                 "to": {
-                    "startLine": 76,
+                    "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 5751,
+                    "startOffset": 10452,
                     "endColumn": 78,
-                    "endOffset": 5825
+                    "endOffset": 10526
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1264,11 +1815,11 @@
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 5830,
+                    "startOffset": 10531,
                     "endColumn": 50,
-                    "endOffset": 5876
+                    "endOffset": 10577
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1283,11 +1834,11 @@
             },
             {
                 "to": {
-                    "startLine": 78,
+                    "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 5881,
+                    "startOffset": 10582,
                     "endColumn": 59,
-                    "endOffset": 5936
+                    "endOffset": 10637
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1302,11 +1853,11 @@
             },
             {
                 "to": {
-                    "startLine": 79,
+                    "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 5941,
+                    "startOffset": 10642,
                     "endColumn": 314,
-                    "endOffset": 6251
+                    "endOffset": 10952
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1321,11 +1872,11 @@
             },
             {
                 "to": {
-                    "startLine": 80,
+                    "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 6256,
+                    "startOffset": 10957,
                     "endColumn": 366,
-                    "endOffset": 6618
+                    "endOffset": 11319
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1340,11 +1891,11 @@
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 6623,
+                    "startOffset": 11324,
                     "endColumn": 219,
-                    "endOffset": 6838
+                    "endOffset": 11539
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1359,11 +1910,11 @@
             },
             {
                 "to": {
-                    "startLine": 82,
+                    "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 6843,
+                    "startOffset": 11544,
                     "endColumn": 334,
-                    "endOffset": 7173
+                    "endOffset": 11874
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1378,11 +1929,11 @@
             },
             {
                 "to": {
-                    "startLine": 83,
+                    "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 7178,
+                    "startOffset": 11879,
                     "endColumn": 249,
-                    "endOffset": 7423
+                    "endOffset": 12124
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1397,11 +1948,11 @@
             },
             {
                 "to": {
-                    "startLine": 84,
+                    "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 7428,
+                    "startOffset": 12129,
                     "endColumn": 393,
-                    "endOffset": 7817
+                    "endOffset": 12518
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1416,11 +1967,11 @@
             },
             {
                 "to": {
-                    "startLine": 85,
+                    "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 7822,
+                    "startOffset": 12523,
                     "endColumn": 54,
-                    "endOffset": 7872
+                    "endOffset": 12573
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1435,11 +1986,11 @@
             },
             {
                 "to": {
-                    "startLine": 86,
+                    "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 7877,
+                    "startOffset": 12578,
                     "endColumn": 88,
-                    "endOffset": 7961
+                    "endOffset": 12662
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1454,11 +2005,11 @@
             },
             {
                 "to": {
-                    "startLine": 87,
+                    "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 7966,
+                    "startOffset": 12667,
                     "endColumn": 89,
-                    "endOffset": 8051
+                    "endOffset": 12752
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1473,11 +2024,11 @@
             },
             {
                 "to": {
-                    "startLine": 88,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 8056,
+                    "startOffset": 12757,
                     "endColumn": 92,
-                    "endOffset": 8144
+                    "endOffset": 12845
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1492,11 +2043,11 @@
             },
             {
                 "to": {
-                    "startLine": 89,
+                    "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 8149,
+                    "startOffset": 12850,
                     "endColumn": 83,
-                    "endOffset": 8228
+                    "endOffset": 12929
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1511,11 +2062,11 @@
             },
             {
                 "to": {
-                    "startLine": 90,
+                    "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 8233,
+                    "startOffset": 12934,
                     "endColumn": 111,
-                    "endOffset": 8340
+                    "endOffset": 13041
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1530,11 +2081,11 @@
             },
             {
                 "to": {
-                    "startLine": 91,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 8345,
+                    "startOffset": 13046,
                     "endColumn": 311,
-                    "endOffset": 8652
+                    "endOffset": 13353
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1549,11 +2100,11 @@
             },
             {
                 "to": {
-                    "startLine": 92,
+                    "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 8657,
+                    "startOffset": 13358,
                     "endColumn": 69,
-                    "endOffset": 8722
+                    "endOffset": 13423
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1568,11 +2119,11 @@
             },
             {
                 "to": {
-                    "startLine": 93,
+                    "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 8727,
+                    "startOffset": 13428,
                     "endColumn": 107,
-                    "endOffset": 8830
+                    "endOffset": 13531
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\values-nb\\values-nb.xml",
@@ -1587,11 +2138,11 @@
             },
             {
                 "to": {
-                    "startLine": 94,
+                    "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 8835,
+                    "startOffset": 13536,
                     "endColumn": 59,
-                    "endOffset": 8890
+                    "endOffset": 13591
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.5.0\\res\\values-nb\\values-nb.xml",
@@ -1606,11 +2157,258 @@
             },
             {
                 "to": {
-                    "startLine": 95,
+                    "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 8895,
+                    "startOffset": 13596,
+                    "endColumn": 104,
+                    "endOffset": 13696
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 104,
+                        "endOffset": 378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 13701,
+                    "endColumn": 112,
+                    "endOffset": 13809
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 383,
+                        "endColumn": 112,
+                        "endOffset": 491
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 13814,
+                    "endColumn": 104,
+                    "endOffset": 13914
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 496,
+                        "endColumn": 104,
+                        "endOffset": 596
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 127,
+                    "startColumn": 4,
+                    "startOffset": 13919,
+                    "endColumn": 103,
+                    "endOffset": 14018
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 601,
+                        "endColumn": 103,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 128,
+                    "startColumn": 4,
+                    "startOffset": 14023,
+                    "endColumn": 135,
+                    "endOffset": 14154
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 135,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 129,
+                    "startColumn": 4,
+                    "startOffset": 14159,
+                    "endColumn": 103,
+                    "endOffset": 14258
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 103,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 130,
+                    "startColumn": 4,
+                    "startOffset": 14263,
+                    "endColumn": 97,
+                    "endOffset": 14356
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 97,
+                        "endOffset": 1038
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 131,
+                    "startColumn": 4,
+                    "startOffset": 14361,
+                    "endColumn": 121,
+                    "endOffset": 14478
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1043,
+                        "endColumn": 121,
+                        "endOffset": 1160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 132,
+                    "startColumn": 4,
+                    "startOffset": 14483,
+                    "endColumn": 104,
+                    "endOffset": 14583
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1165,
+                        "endColumn": 104,
+                        "endOffset": 1265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 133,
+                    "startColumn": 4,
+                    "startOffset": 14588,
+                    "endColumn": 85,
+                    "endOffset": 14669
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1270,
+                        "endColumn": 85,
+                        "endOffset": 1351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 134,
+                    "startColumn": 4,
+                    "startOffset": 14674,
+                    "endColumn": 93,
+                    "endOffset": 14763
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-nb\\values-nb.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1356,
+                        "endColumn": 93,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 135,
+                    "startColumn": 4,
+                    "startOffset": 14768,
+                    "endColumn": 101,
+                    "endOffset": 14865
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-nb\\location_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 323,
+                        "endColumn": 101,
+                        "endOffset": 420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 136,
+                    "startColumn": 4,
+                    "startOffset": 14870,
+                    "endColumn": 92,
+                    "endOffset": 14958
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\8.4.0\\res\\values-nb\\location_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 92,
+                        "endOffset": 318
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 137,
+                    "startColumn": 4,
+                    "startOffset": 14963,
                     "endColumn": 100,
-                    "endOffset": 8991
+                    "endOffset": 15059
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\values-nb\\values-nb.xml",
@@ -1625,11 +2423,11 @@
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 138,
                     "startColumn": 4,
-                    "startOffset": 8996,
+                    "startOffset": 15064,
                     "endColumn": 52,
-                    "endOffset": 9044
+                    "endOffset": 15112
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\values-nb\\values-nb.xml",
@@ -1644,11 +2442,11 @@
             },
             {
                 "to": {
-                    "startLine": 97,
+                    "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 9049,
+                    "startOffset": 15117,
                     "endColumn": 52,
-                    "endOffset": 9097
+                    "endOffset": 15165
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1663,11 +2461,11 @@
             },
             {
                 "to": {
-                    "startLine": 98,
+                    "startLine": 140,
                     "startColumn": 4,
-                    "startOffset": 9102,
+                    "startOffset": 15170,
                     "endColumn": 55,
-                    "endOffset": 9153
+                    "endOffset": 15221
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1682,11 +2480,11 @@
             },
             {
                 "to": {
-                    "startLine": 99,
+                    "startLine": 141,
                     "startColumn": 4,
-                    "startOffset": 9158,
+                    "startOffset": 15226,
                     "endColumn": 64,
-                    "endOffset": 9218
+                    "endOffset": 15286
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1701,11 +2499,11 @@
             },
             {
                 "to": {
-                    "startLine": 100,
+                    "startLine": 142,
                     "startColumn": 4,
-                    "startOffset": 9223,
+                    "startOffset": 15291,
                     "endColumn": 66,
-                    "endOffset": 9285
+                    "endOffset": 15353
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\values-nb\\values-nb.xml",
@@ -1720,11 +2518,11 @@
             },
             {
                 "to": {
-                    "startLine": 101,
+                    "startLine": 143,
                     "startColumn": 4,
-                    "startOffset": 9290,
+                    "startOffset": 15358,
                     "endColumn": 55,
-                    "endOffset": 9341
+                    "endOffset": 15409
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\values-nb\\values-nb.xml",
@@ -1739,11 +2537,11 @@
             },
             {
                 "to": {
-                    "startLine": 102,
+                    "startLine": 144,
                     "startColumn": 4,
-                    "startOffset": 9346,
+                    "startOffset": 15414,
                     "endColumn": 43,
-                    "endOffset": 9385
+                    "endOffset": 15453
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1758,11 +2556,11 @@
             },
             {
                 "to": {
-                    "startLine": 103,
+                    "startLine": 145,
                     "startColumn": 4,
-                    "startOffset": 9390,
+                    "startOffset": 15458,
                     "endColumn": 42,
-                    "endOffset": 9428
+                    "endOffset": 15496
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1777,11 +2575,11 @@
             },
             {
                 "to": {
-                    "startLine": 104,
+                    "startLine": 146,
                     "startColumn": 4,
-                    "startOffset": 9433,
+                    "startOffset": 15501,
                     "endColumn": 63,
-                    "endOffset": 9492
+                    "endOffset": 15560
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1796,11 +2594,11 @@
             },
             {
                 "to": {
-                    "startLine": 105,
+                    "startLine": 147,
                     "startColumn": 4,
-                    "startOffset": 9497,
+                    "startOffset": 15565,
                     "endColumn": 65,
-                    "endOffset": 9558
+                    "endOffset": 15626
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1815,11 +2613,11 @@
             },
             {
                 "to": {
-                    "startLine": 106,
+                    "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 9563,
+                    "startOffset": 15631,
                     "endColumn": 52,
-                    "endOffset": 9611
+                    "endOffset": 15679
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1834,11 +2632,11 @@
             },
             {
                 "to": {
-                    "startLine": 107,
+                    "startLine": 149,
                     "startColumn": 4,
-                    "startOffset": 9616,
+                    "startOffset": 15684,
                     "endColumn": 69,
-                    "endOffset": 9681
+                    "endOffset": 15749
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1853,11 +2651,11 @@
             },
             {
                 "to": {
-                    "startLine": 108,
+                    "startLine": 150,
                     "startColumn": 4,
-                    "startOffset": 9686,
+                    "startOffset": 15754,
                     "endColumn": 111,
-                    "endOffset": 9793
+                    "endOffset": 15861
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1872,11 +2670,11 @@
             },
             {
                 "to": {
-                    "startLine": 109,
+                    "startLine": 151,
                     "startColumn": 4,
-                    "startOffset": 9798,
+                    "startOffset": 15866,
                     "endColumn": 259,
-                    "endOffset": 10053
+                    "endOffset": 16121
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\values-nb\\values-nb.xml",
@@ -1891,11 +2689,11 @@
             },
             {
                 "to": {
-                    "startLine": 110,
+                    "startLine": 152,
                     "startColumn": 4,
-                    "startOffset": 10058,
+                    "startOffset": 16126,
                     "endColumn": 72,
-                    "endOffset": 10126
+                    "endOffset": 16194
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\values-nb\\values-nb.xml",
@@ -1910,11 +2708,11 @@
             },
             {
                 "to": {
-                    "startLine": 111,
+                    "startLine": 153,
                     "startColumn": 4,
-                    "startOffset": 10131,
+                    "startOffset": 16199,
                     "endColumn": 76,
-                    "endOffset": 10203
+                    "endOffset": 16271
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1929,11 +2727,11 @@
             },
             {
                 "to": {
-                    "startLine": 112,
+                    "startLine": 154,
                     "startColumn": 4,
-                    "startOffset": 10208,
+                    "startOffset": 16276,
                     "endColumn": 55,
-                    "endOffset": 10259
+                    "endOffset": 16327
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1948,11 +2746,11 @@
             },
             {
                 "to": {
-                    "startLine": 113,
+                    "startLine": 155,
                     "startColumn": 4,
-                    "startOffset": 10264,
+                    "startOffset": 16332,
                     "endColumn": 75,
-                    "endOffset": 10335
+                    "endOffset": 16403
                 },
                 "from": {
                     "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\values-nb\\values-nb.xml",
@@ -1962,6 +2760,25 @@
                         "startOffset": 1214,
                         "endColumn": 75,
                         "endOffset": 1285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 156,
+                    "startColumn": 4,
+                    "startOffset": 16408,
+                    "endColumn": 104,
+                    "endOffset": 16508
+                },
+                "from": {
+                    "file": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-wallet\\8.4.0\\res\\values-nb\\wallet_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 104,
+                        "endOffset": 330
                     }
                 }
             }
