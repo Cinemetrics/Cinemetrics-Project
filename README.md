@@ -23,3 +23,8 @@ https://github.com/VinuthnaGummadi/Cinemetrics-Project/blob/master/Documentation
 Final Increment:
 
 https://github.com/VinuthnaGummadi/Cinemetrics-Project/blob/master/Documentation/Team11-CinemetricsFinalIncrement.pdf
+
+Final Report:
+
+https://github.com/Cinemetrics/Cinemetrics-Project/blob/master/Documentation/Team11-CinemetricsProject.pdf
+
