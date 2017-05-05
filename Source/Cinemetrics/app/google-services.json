@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806651044065",
+    "project_id": "cinemetricstest"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806651044065:android:a1dcd9a3912be0c9",
+        "android_client_info": {
+          "package_name": "edu.umkc.ase.cinemetrics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806651044065-lbarqa7hjf35j3j4l6r1g6vp4up5ku13.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "806651044065-4hqm4j1agpe7021jga84ns73gn91e5v7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.umkc.ase.cinemetrics",
+            "certificate_hash": "97ddbd689490daea9807f0e167953a884d12261d"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEWnJf6S2Oo0wHZ4kFC7WrJ9FdpiInfn8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

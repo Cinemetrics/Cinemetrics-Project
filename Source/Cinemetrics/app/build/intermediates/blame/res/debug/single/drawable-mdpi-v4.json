@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_logo_default.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable-mdpi-v4\\tw__ic_logo_default.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_video_pause_pressed.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_video_pause_pressed.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_video_replay.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_video_replay.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__share_email_header.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\twitter-core\\1.6.6\\res\\drawable-mdpi-v4\\tw__share_email_header.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_logo_blue.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_logo_blue.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_video_replay_pressed.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_video_replay_pressed.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_play_pressed.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_play_pressed.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_gif_badge.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_gif_badge.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dgts__logo_name.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-mdpi-v4\\dgts__logo_name.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_seekbar_bg.9.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_seekbar_bg.9.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_retweet_light.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_retweet_light.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dgts__logo.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-mdpi-v4\\dgts__logo.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_seekbar_secondary_bg.9.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_seekbar_secondary_bg.9.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_tweet_verified.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_tweet_verified.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_tweet_photo_error_light.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_tweet_photo_error_light.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_retweet_dark.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_retweet_dark.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__action_heart_on_default.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__action_heart_on_default.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_video_pause.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_video_pause.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_video_play.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_video_play.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dgts__spinner_light.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-mdpi-v4\\dgts__spinner_light.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dgts__spinner_dark.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-mdpi-v4\\dgts__spinner_dark.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dgts__addressbook_header.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-mdpi-v4\\dgts__addressbook_header.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_inline_share.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_inline_share.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__action_heart_off_default.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__action_heart_off_default.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_play_default.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_play_default.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_logo_white.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_logo_white.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dgts__ic_success.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-mdpi-v4\\dgts__ic_success.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_tweet_photo_error_dark.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_tweet_photo_error_dark.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_seekbar_progress_bg.9.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_seekbar_progress_bg.9.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\tw__ic_video_play_pressed.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.twitter.sdk.android\\tweet-ui\\1.10.1\\res\\drawable-mdpi-v4\\tw__ic_video_play_pressed.png"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\dgts__login_header.png",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\exploded-aar\\com.digits.sdk.android\\digits\\1.10.3\\res\\drawable-mdpi-v4\\dgts__login_header.png"
+    }
+]

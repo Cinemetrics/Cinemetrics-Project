@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\drawer_actions.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\menu\\drawer_actions.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_another.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\menu\\menu_another.xml"
+    },
+    {
+        "merged": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\build\\intermediates\\res\\merged\\debug\\menu\\action_menu.xml",
+        "source": "S:\\new\\Cinemetrics\\Cinemetrics\\app\\src\\main\\res\\menu\\action_menu.xml"
+    }
+]
