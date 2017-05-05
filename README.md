@@ -14,3 +14,6 @@ https://github.com/VinuthnaGummadi/Cinemetrics-Project/blob/master/documentation
 
 Third Increment Implementation: 
 https://github.com/VinuthnaGummadi/Cinemetrics-Project/blob/master/Documentation/Increment3-Report.pdf
+
+Final Increment:
+https://github.com/VinuthnaGummadi/Cinemetrics-Project/blob/master/Documentation/Team11-CinemetricsFinalIncrement.pdf
