@@ -26,5 +26,5 @@ https://github.com/VinuthnaGummadi/Cinemetrics-Project/blob/master/Documentation
 
 Final Report:
 
-https://github.com/Cinemetrics/Cinemetrics-Project/blob/master/Documentation/Team11-CinemetricsProject.pdf
+https://github.com/Cinemetrics/Cinemetrics-Project/blob/master/Documentation/Team11-CinemetricsProjectFinalReport.pdf
 
